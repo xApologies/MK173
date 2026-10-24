@@ -25,3 +25,14 @@ The v0.4 description above is retained as history. **Stages 08–10 now have ind
 - [Update audit and remaining issues](provenance/V05_UPDATE_AUDIT.md), [v0.5 hashes](provenance/V05_UPDATE_SHA256.json), [supplied delta notes](provenance/DELTA_V05_NOTES.md), and [v0.5 verifier](provenance/verify_v05_update.py).
 
 For the current snapshot, run `python provenance/verify_v05_update.py` with Python 3.10+ and Pillow. Use `--git-index` for staged bytes or `--commit HEAD` for committed bytes. The old verifier and manifests are unchanged historical v0.4 evidence: the old verifier requires the original v0.4 checkout and is expected to reject the expanded v0.5 working tree. Do not regenerate the old manifests to make it pass. The new verifier checks the preserved base and this update separately. Unknown clock factors, dates, exchange rates, surveyed map data and network mathematics remain OPEN.
+
+## Current v0.6 civilization checkpoint — 2026-10-24
+
+Earlier version descriptions remain historical. [The new decisions](canon/POST_V05_DECISIONS.md) accept Valedran's **180 ahm = 1 eln**, its specified denominations and adopted economic benchmarks. The six realms' trade-currency architecture is accepted; labels, denominations and exchange rates remain separately WORKING/OPEN. See [current decision precedence](canon/DECISIONS.md) and [economic supersessions](canon/08_ECONOMY_AND_DAILY_LIFE.md).
+
+- [World Clock civilization index](world_clock/README.md): economy, land/materials, ships, security and working politics.
+- [WORKING leadership and routes](world_clock/L2_WORLD_CIVILIZATION/POLITICS/LEADERSHIP_WORKING.md) alongside the unchanged [political map](images/maps/political_v02_corrected.png).
+- [Historical PDFs and source boundaries](provenance/source_references/README.md), [supplied delta overview](README_DELTA.md), and [archived update instructions](CODEX_UPDATE_PROMPT.md).
+- [Continuity audit and unresolved issues](provenance/V06_IMPORT_AUDIT.md), [supplied payload hashes](provenance/V06_PAYLOAD_SHA256.json), [v0.6 snapshot hashes](provenance/V06_SNAPSHOT_SHA256.json), and [v0.6 verifier](provenance/verify_v06_update.py).
+
+Run `python provenance/verify_v06_update.py` with Python 3.10+, Pillow and pypdf; use `--git-index` or `--commit HEAD` for staged/committed bytes. The v0.4/v0.5 verifiers and manifests remain unchanged evidence for their original checkouts and are not current-tree validators. The v0.6 verifier checks the preserved v0.5 base and this update separately. Historical PDF instructions and canon-lock wording do not govern MK173. Original canon text, images, event/realm CSVs, source pointers and Git ancestry are preserved.

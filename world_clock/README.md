@@ -8,3 +8,16 @@ This directory is MK173's optional chronology scaffold. In [AERA's pinned defini
 The supplied [event CSV](EVENTS.csv) has seven columns: stable event ID, book, arc, event, relative order, White date and status. It does **not yet have** realm-local-time or provenance columns despite the intended scope described above. Those fields, a calendar epoch and actual local times remain unprovided; this import preserves the original schema and adds no invented values. The final event's narrative relation is prose rather than a dependency on a stable event ID.
 
 The [realm CSV](REALM_CLOCKS.csv) has seven realms. White's factor of 1 is the reference identity; the six chromatic factors are empty and OPEN. Neither currency conversions nor rates appear here. See [current decisions](../canon/DECISIONS.md) and the [audit](../provenance/IMPORT_AUDIT.md).
+
+## v0.6 World Clock navigation — 2026-10-24
+
+The full AERA L0–L4 meaning above remains authoritative. This directory now also holds MK173's L2 civilization records. The historical chronology description is retained; the additive [v2 schema](SCHEMA_V2.md), [v2 event ledger](EVENTS_V2.csv) and [v2 realm table](REALM_CLOCKS_V2.csv) remain unchanged. No chronology migration or new date/factor occurs in v0.6.
+
+- [Adopted Valedran economic benchmarks](L2_WORLD_CIVILIZATION/ECONOMY/INHERITED_PRICE_REFERENCE.md).
+- [Land, forestry, food and construction](L2_WORLD_CIVILIZATION/ECONOMY/LAND_FORESTRY_CONSTRUCTION.md).
+- [Ships and trade](L2_WORLD_CIVILIZATION/TRANSPORT/SHIPS_AND_TRADE.md).
+- [Source-bounded organizations](L2_WORLD_CIVILIZATION/SECURITY/ORGANIZATIONS.md) and [historical PDFs](../provenance/source_references/README.md).
+- [WORKING leadership, treaties and seven-book route](L2_WORLD_CIVILIZATION/POLITICS/LEADERSHIP_WORKING.md): map labels are evidence of depicted names, not acceptance of the roster or travel distances.
+- [Current workshop decisions](../canon/POST_V05_DECISIONS.md) and [v0.6 audit](../provenance/V06_IMPORT_AUDIT.md).
+
+The accepted 180 ahm per eln is a Valedran currency conversion, not a realm-time correspondence or another realm's monetary ratio. Realm clock factors, epochs and offsets remain OPEN.

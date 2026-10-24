@@ -95,3 +95,16 @@ This dated update supersedes the earlier OPEN BAEN/vaen ambiguity and the absenc
 - [v0.5 audit](provenance/V05_UPDATE_AUDIT.md) and [new update hashes](provenance/V05_UPDATE_SHA256.json): separate from the preserved v0.4 manifests and verifier.
 
 Municipal stabilizers remain independent of the ancient network; Weaving remains general relational Transduction. The supplied stage documents preserve ACCEPTED, WORKING and OPEN distinctions. Currency conversions, chromatic clock factors, surveyed coordinates and safe network-transition mathematics remain OPEN. AERA references and the historical live-model prefix are unchanged.
+
+## MK173 v0.6 pre-Red civilization update — 2026-10-24
+
+The entire preceding live model is retained. [Post-v0.5 decisions](canon/POST_V05_DECISIONS.md) and the dated notes in [the decision ledger](canon/DECISIONS.md) and [Development 08](canon/08_ECONOMY_AND_DAILY_LIFE.md) supersede earlier uncertainty only within their stated scope. **180 ahm = 1 eln** is now accepted for Valedran, with ordinary coin and note denominations 1/6/12/18/24/30 and White eln notes 180/360/540/720/900/1080. There is no White ahm coin. Each chromatic realm's trade-currency architecture is accepted; its name, denomination and exchange details remain WORKING or OPEN. No shared Starscape cash or cross-realm 180:1 rule is inferred.
+
+- [Income, rent and price benchmarks](world_clock/L2_WORLD_CIVILIZATION/ECONOMY/INHERITED_PRICE_REFERENCE.md): adopted numerical schedules with upstream pointers, excluding MK163's character transactions and calendar.
+- [Land, forestry, food and construction](world_clock/L2_WORLD_CIVILIZATION/ECONOMY/LAND_FORESTRY_CONSTRUCTION.md): civic stabilization, protected estates, premium timber/meat, grown stone and specialist alchemy.
+- [Ships and trade](world_clock/L2_WORLD_CIVILIZATION/TRANSPORT/SHIPS_AND_TRADE.md): sail-free timber hulls with water-flow sigils; ship dimensions, speeds and exact mechanics remain OPEN.
+- [Organizations](world_clock/L2_WORLD_CIVILIZATION/SECURITY/ORGANIZATIONS.md) and [historical source boundaries](provenance/source_references/README.md): general criminal-world elements without adopting the old sanctuary system, geography or Pirate King.
+- [WORKING leadership, treaties and seven-book routes](world_clock/L2_WORLD_CIVILIZATION/POLITICS/LEADERSHIP_WORKING.md), compared with the existing [political concept](images/maps/political_v02_corrected.png); label matches do not promote proposals to canon.
+- [World Clock navigation](world_clock/README.md), [v0.6 audit](provenance/V06_IMPORT_AUDIT.md), [payload hashes](provenance/V06_PAYLOAD_SHA256.json), and [current snapshot hashes](provenance/V06_SNAPSHOT_SHA256.json).
+
+Aren remains a professional cartographer and general relational Weaver; physical card manufacture requires separate cardsmith expertise. Development 09 and 10, all 35 working arc headings, four images, chronology CSVs and existing AERA references remain unchanged. No narrative chapters, dates, realm clock ratios, measured routes or network proofs are introduced. Vaen remains the corrected resource term. Earlier audit statements remain historical and yield only to these explicit decisions.

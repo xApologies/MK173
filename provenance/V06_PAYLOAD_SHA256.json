@@ -1,0 +1,50 @@
+{
+  "version": "0.6",
+  "type": "incremental",
+  "files": {
+    "CODEX_UPDATE_PROMPT.md": {
+      "bytes": 3318,
+      "sha256": "4d80f144665f83007459344151aa46a44a913fec299a09d24fa212a475f029c9"
+    },
+    "README_DELTA.md": {
+      "bytes": 672,
+      "sha256": "838be6359484984fd4b7469cfd917bd72dc5d8c18391333d922c2b783f62d28d"
+    },
+    "canon/POST_V05_DECISIONS.md": {
+      "bytes": 3845,
+      "sha256": "c0ba07d491a35f5a80faa3cfdb0ee2dc34499689e0fc55cf2824c9b42bfb2fb7"
+    },
+    "provenance/source_references/43_Bandits.pdf": {
+      "bytes": 37089,
+      "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588"
+    },
+    "provenance/source_references/44_Cartels.pdf": {
+      "bytes": 40236,
+      "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f"
+    },
+    "provenance/source_references/46_Evil_Organizations.pdf": {
+      "bytes": 83251,
+      "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/ECONOMY/INHERITED_PRICE_REFERENCE.md": {
+      "bytes": 1502,
+      "sha256": "74c18105e3a54a5fbeceb0927b3d5ce637ab22b7e5953880c92fd0a0425819f1"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/ECONOMY/LAND_FORESTRY_CONSTRUCTION.md": {
+      "bytes": 1856,
+      "sha256": "5c7082023bef474903299b70deb5afa4a4b0daa4a0232970b08f16436d8e43ed"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/POLITICS/LEADERSHIP_WORKING.md": {
+      "bytes": 2449,
+      "sha256": "34aa6ca2db72d16cb08c2d03861c9d17ac7fc6bca4aad80d9f56d48ac8417b07"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/SECURITY/ORGANIZATIONS.md": {
+      "bytes": 1334,
+      "sha256": "91118df6ba91fd1806676f2559da869d3e4603b2c5b0a08ad2e34811a887ef56"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/TRANSPORT/SHIPS_AND_TRADE.md": {
+      "bytes": 1365,
+      "sha256": "3000c9f453be6ac94bd7e59cc3d8fbb0a46dbb2d4732be7e1b4fd1d4d9b1251d"
+    }
+  }
+}

@@ -19,3 +19,11 @@ Regional sectors: Genesis-supported agriculture and raw materials; grown stone/g
 
 ## OPEN
 Wages, rent, card prices, trade basket, crystal/dust/vaen grades and values, currency backing, foreign exchange rates, exact eln/ahm conversion, and interworld settlement institutions. Do not fabricate values for narrative convenience.
+
+## v0.6 economic supersession — 2026-10-24
+
+Preserve the preceding v0.5 record. The [new author-confirmed decisions](POST_V05_DECISIONS.md) supersede only the identified OPEN and WORKING items: **180 ahm = 1 eln** is ACCEPTED for Valedran; ordinary coins and notes each use 1/6/12/18/24/30; White eln notes use 180/360/540/720/900/1080, with no White ahm coin. The [inherited benchmark schedules](../world_clock/L2_WORLD_CIVILIZATION/ECONOMY/INHERITED_PRICE_REFERENCE.md) supply specified individual incomes, average residential rents, card classes, crystals and physical equipment. These are Valedran references, not Aren's personal salary or lease and not universal fixed retail prices. The earlier blanket statement that these benchmarks are unprovided no longer governs those listed values.
+
+A broadly accepted trade currency in each chromatic realm, alongside possible sovereign currencies, is now ACCEPTED architecture. The latest proposed names Talon/Vela/Orin/Lira/Tide/Astra remain WORKING. No realm denomination, foreign exchange rate or replication of Valedran's 180:1 conversion is accepted by analogy. Exchange Weight, settlement institutions and currency backing remain unratified.
+
+See [land, forestry and construction](../world_clock/L2_WORLD_CIVILIZATION/ECONOMY/LAND_FORESTRY_CONSTRUCTION.md) and [ships and trade](../world_clock/L2_WORLD_CIVILIZATION/TRANSPORT/SHIPS_AND_TRADE.md). Timber is costlier than grown stone, managed protected forestry supports supply, meat is premium rather than prohibited, and Type 1 material growth does not imply industrial fabrication capacity. Aren's salary, apartment district, favorite abecca, actual purchases, meals, fees, Dust/vaen prices and unspecified trade values remain OPEN. The working monthly budget remains illustrative. MK163 calendar rules, personal transactions and geography are not imported.
