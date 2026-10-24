@@ -37,3 +37,11 @@ This is an integration date, not an in-world date. The [Orange index](../narrati
 Arc 01 supplies an approximate interval of several weeks after Red. No exact date, trial span, travel duration, realm-clock factor, new event ID or schema migration follows from that phrase. All four existing event/realm CSVs and all L2 civilization records remain byte-identical. E0001/E0002 remain opening Red anchors, and E0003 remains the later White working event. A fuller chronology ledger and its dependencies remain OPEN.
 
 The route is Asterhold/White → Sunfall/White → Orange → Sunfall/White, with a prospective Dawnshore/White introduction for Yellow. Saelith's travel respects Orange/White access; she stays in Orange at book end. Seren's possible correspondence does not establish a dated event. The [decision note](../canon/DECISIONS.md) and [continuity audit](../provenance/ORANGE_PASS1_IMPORT_AUDIT.md) retain these scope limits and the full AERA L0–L4 meaning of World Clock.
+
+## Yellow Book Pass 1 narrative pointers — 2026-10-24
+
+This is an integration date, not an in-world date. The [Yellow index](../narrative/YELLOW/README.md) and [book model](../narrative/YELLOW/LIVE_MODEL.md) add Arc 01 → 02 → 03 → 04 → 05 following [Orange's ending](../narrative/ORANGE/ARC_05_SUMMARY.md), then the prospective [Green handoff](../narrative/GREEN/ARCS.md). Earlier Red/Orange notes retain their historical scope; Yellow now has a separate accepted skeleton.
+
+The route is Sunfall/White → ocean crossing → Dawnshore/White → Yellow → Dawnshore/White, with a research lead toward Serenwood/White and Green. Orun returns to Yellow; no other chromatic travel is implied for him. Elarith appears through correspondence, not an Aren visit. The crossing is costly and immense, but no numerical fare, duration, distance, calendar date or clock factor is supplied.
+
+All four original/v2 chronology CSVs and every L2 civilization record remain byte-identical. E0001/E0002 stay opening Red anchors and E0003 remains the later White working event. No new event ID, schema migration or inferred date is added; full chronology population and E0003's formal dependency remain OPEN. The [decision note](../canon/DECISIONS.md) and [audit](../provenance/YELLOW_PASS1_IMPORT_AUDIT.md) preserve these limits and AERA's full L0–L4 World Clock meaning.
