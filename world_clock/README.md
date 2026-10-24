@@ -21,3 +21,11 @@ The full AERA L0–L4 meaning above remains authoritative. This directory now al
 - [Current workshop decisions](../canon/POST_V05_DECISIONS.md) and [v0.6 audit](../provenance/V06_IMPORT_AUDIT.md).
 
 The accepted 180 ahm per eln is a Valedran currency conversion, not a realm-time correspondence or another realm's monetary ratio. Realm clock factors, epochs and offsets remain OPEN.
+
+## Red Book Pass 1 narrative pointers — 2026-10-24
+
+This date records repository integration, not an in-world event. The [Red Book index](../narrative/RED/README.md) links all five ACCEPTED major-beat summaries and the [book live model](../narrative/RED/LIVE_MODEL.md). Their relative order is Arc 01 → 02 → 03 → 04 → 05, followed by the proposed expansion of [Orange Arc 01, The Living Threshold](../narrative/ORANGE/ARCS.md); no Orange outline is created here.
+
+Existing E0001/E0002 remain compatible opening-arc anchors; the later White E0003 is not moved into Red. All original and v2 event/realm CSVs remain byte-identical. No new event IDs, dates, durations, clock factors or schema migration are introduced. A fuller ledger and E0003's formal dependency remain OPEN.
+
+The [decision note](../canon/DECISIONS.md) and [continuity audit](../provenance/RED_PASS1_IMPORT_AUDIT.md) distinguish this accepted narrative skeleton from detailed chapter planning, optional proposals and unresolved mechanics. Environmental storms/Domai/Eldris and municipal stabilization are not consequences or components of the ancient network merely because these stories share a setting.

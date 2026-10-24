@@ -36,3 +36,11 @@ Earlier version descriptions remain historical. [The new decisions](canon/POST_V
 - [Continuity audit and unresolved issues](provenance/V06_IMPORT_AUDIT.md), [supplied payload hashes](provenance/V06_PAYLOAD_SHA256.json), [v0.6 snapshot hashes](provenance/V06_SNAPSHOT_SHA256.json), and [v0.6 verifier](provenance/verify_v06_update.py).
 
 Run `python provenance/verify_v06_update.py` with Python 3.10+, Pillow and pypdf; use `--git-index` or `--commit HEAD` for staged/committed bytes. The v0.4/v0.5 verifiers and manifests remain unchanged evidence for their original checkouts and are not current-tree validators. The v0.6 verifier checks the preserved v0.5 base and this update separately. Historical PDF instructions and canon-lock wording do not govern MK173. Original canon text, images, event/realm CSVs, source pointers and Git ancestry are preserved.
+
+## Current Red Book Pass 1 checkpoint — 2026-10-24
+
+The previous v0.6 commit is complete and verified on remote main. The five [accepted Red arc summaries](narrative/RED/README.md) and [Red live model](narrative/RED/LIVE_MODEL.md) are now integrated. They establish major beats; detailed scene/chapter plans and prose remain OPEN. The [scope of acceptance](canon/DECISIONS.md) preserves optional proposals and prior canon history.
+
+The archive's README, update prompt and original-named hash manifest were not copied over existing repository files. Their exact bytes remain in the ignored ZIP/staging and their hashes are recorded in the [new snapshot manifest](provenance/RED_PASS1_SNAPSHOT_SHA256.json). See [changed paths, checks and remaining issues](provenance/RED_PASS1_IMPORT_AUDIT.md).
+
+For this snapshot, run `python provenance/verify_red_pass1.py` with Python 3.10+; use `--git-index` or `--commit HEAD` to verify Git bytes. Older fixed-inventory verifiers remain unchanged and apply to their original checkouts, not this expanded tree. Existing arc registries, images, chronology CSVs and source records are preserved. No AERA or MK163 content is modified.

@@ -108,3 +108,13 @@ The entire preceding live model is retained. [Post-v0.5 decisions](canon/POST_V0
 - [World Clock navigation](world_clock/README.md), [v0.6 audit](provenance/V06_IMPORT_AUDIT.md), [payload hashes](provenance/V06_PAYLOAD_SHA256.json), and [current snapshot hashes](provenance/V06_SNAPSHOT_SHA256.json).
 
 Aren remains a professional cartographer and general relational Weaver; physical card manufacture requires separate cardsmith expertise. Development 09 and 10, all 35 working arc headings, four images, chronology CSVs and existing AERA references remain unchanged. No narrative chapters, dates, realm clock ratios, measured routes or network proofs are introduced. Vaen remains the corrected resource term. Earlier audit statements remain historical and yield only to these explicit decisions.
+
+## Red Book Pass 1 narrative checkpoint — 2026-10-24
+
+The v0.6 update was committed and confirmed on remote main before this integration. The [Red Book index](narrative/RED/README.md) and [supplied book live model](narrative/RED/LIVE_MODEL.md) now record five ACCEPTED major-beat skeletons: [01 — The Impossible Mountain](narrative/RED/ARC_01_SUMMARY.md), [02 — The First Weave](narrative/RED/ARC_02_SUMMARY.md), [03 — The Dragon’s Geometry](narrative/RED/ARC_03_SUMMARY.md), [04 — The Conservator’s Intervention](narrative/RED/ARC_04_SUMMARY.md), and [05 — The Broken Map](narrative/RED/ARC_05_SUMMARY.md). Their titles match the unchanged Red registry.
+
+This acceptance supersedes earlier working proposals only where the new summaries explicitly specify major beats, names, roles and setting references; see [the scoped decision note](canon/DECISIONS.md). Detailed outlines, chapters, optional biographies/politics and numerical chronology remain OPEN. The other six books' registries and the existing World Clock records are unchanged.
+
+The progression is reproducible mountain anomaly, supervised first Weave, Red-realm research, responsible institutional disagreement, then preliminary relational atlas and [Orange's living-system handoff](narrative/ORANGE/ARCS.md). It does not establish a global network proof or solution. The network's engineering instability is separate from Genesis storms, Domai and Eldris; city stabilizers are independent. Aren remains a cartographer developing Weaving skills, not an expert by first success or a professional cardsmith. No in-world date, cost or travel duration is invented.
+
+[World Clock navigation](world_clock/README.md), [import and continuity audit](provenance/RED_PASS1_IMPORT_AUDIT.md), and [current snapshot hashes](provenance/RED_PASS1_SNAPSHOT_SHA256.json) document this additive merge. All earlier live-model text, source references, images, manifests and Git history are preserved.
