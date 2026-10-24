@@ -62,3 +62,9 @@ See [scoped acceptance](canon/DECISIONS.md), [World Clock pointers](world_clock/
 The [Green index](narrative/GREEN/README.md) links five accepted causal summaries and the [book model](narrative/GREEN/LIVE_MODEL.md). Green extends the atlas to configurations, transitions and consequences while leaving civic choices to legitimate authorities. Its onward question is Blue's long-duration persistence; detailed chapters and prose remain OPEN.
 
 See [scoped acceptance](canon/DECISIONS.md), [World Clock pointers](world_clock/README.md), [the audit](provenance/GREEN_PASS1_IMPORT_AUDIT.md) and [snapshot manifest](provenance/GREEN_PASS1_SNAPSHOT_SHA256.json). Run `python provenance/verify_green_pass1.py` with Python 3.10+; add `--git-index` or `--commit HEAD` to compare Git bytes. Historical fixed-inventory scripts apply to their original checkouts. All Red/Orange/Yellow files, prior canon text, World Clock records, images and AERA references remain preserved. AERA and MK163 are not modified.
+
+## Blue Book Pass 1 — 2026-10-24
+
+The [Blue index](narrative/BLUE/README.md) links five accepted causal summaries and the [book model](narrative/BLUE/LIVE_MODEL.md). Blue develops archival uncertainty, maintenance obligations and conditional Directorate cooperation before Violet's global-connectivity question. Detailed chapters, dates and technical proof remain OPEN; the [decision note](canon/DECISIONS.md) flags the source's unresolved Seren family-status ambiguity.
+
+See [World Clock pointers](world_clock/README.md), [the audit](provenance/BLUE_PASS1_IMPORT_AUDIT.md) and [snapshot manifest](provenance/BLUE_PASS1_SNAPSHOT_SHA256.json). Run `python provenance/verify_blue_pass1.py` with Python 3.10+; add `--git-index` or `--commit HEAD` to compare Git bytes. Historical fixed-inventory scripts apply to their original checkouts. All earlier books, prior canon text, World Clock records, images and AERA references are preserved. AERA and MK163 are not modified.
