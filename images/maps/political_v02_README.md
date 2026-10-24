@@ -1,0 +1,2 @@
+# MK173 political concept map v02
+This is a narrowly annotated derivative of `political_v01.png`: the top-left false **80,000-mile diameter** and **~2.5 Earth** are replaced with **~80,000-mile circumference** and **~3.2 Earth circumferences**. Preserve v01 unchanged for provenance. This does not validate the map's scale bar, borders, government names, capitals, projected coordinates, or legend claims. Written accepted canon outranks incidental image text. Source v01 remains the original visual concept.

@@ -82,3 +82,16 @@ Everything above is the complete supplied live model, retained without removing 
 **Map correction:** the political image prints an 80,000-mile *diameter* and an incompatible Earth comparison. These generated annotations do not supersede the accepted approximately 80,000-mile *circumference*. Its capital markers and cartographic claims do not ratify coordinates, boundaries or geographic details. Both original map files remain unchanged concept art.
 
 **Coverage limit:** Development 01–07 has explicit numbered source entries. The changelog groups Development 08–10 together, but the package does not identify their individual boundaries. The audit accounts for all ten stage numbers and records the missing attribution without inventing workshop decisions.
+
+## MK173 v0.5 continuity update — 2026-10-24
+
+This dated update supersedes the earlier OPEN BAEN/vaen ambiguity and the absence of individual Development 08–10 records. All preceding v0.4 text, including its import notes, remains intact as history. **BAEN, baen and B-A-E-N were author-confirmed transcription errors for vaen (V-A-E-N); no separate BAEN resource exists.** Vaelith remains the separate Orange race. See [the terminology correction](canon/TERMINOLOGY_CORRECTION.md) and [current decisions](canon/DECISIONS.md).
+
+- [Development 08 — Economy and Daily Life](canon/08_ECONOMY_AND_DAILY_LIFE.md): Concord eln/ahm, specialized vaen resources, working economic examples and open prices/rates.
+- [Development 09 — Environmental Geography](canon/09_ENVIRONMENTAL_GEOGRAPHY.md): White superposition, approximately 80,000-mile circumference, 20,000–30,000-foot mountains, six nonordinary chromatic realms and asymmetric travel.
+- [Development 10 — Narrative Constitution](canon/10_NARRATIVE_CONSTITUTION.md): accepted narrative approach, working craft targets and all 35 retained working arc titles. No chapters drafted.
+- [Political concept v02](images/maps/political_v02_corrected.png) and [its limitations](images/maps/political_v02_README.md): corrects only the top-left circumference and Earth-comparison annotation. The original political v01, geography map and geometry reference are retained byte-for-byte. Borders, capitals, scale bar, coordinates and legend claims remain unvalidated.
+- [Additive chronology schema v2](world_clock/SCHEMA_V2.md), [events v2](world_clock/EVENTS_V2.csv), and [realm clocks v2](world_clock/REALM_CLOCKS_V2.csv): explicit provenance and local-time fields, with unknown dates/factors left empty. The original CSVs remain historical snapshots. AERA's World Clock continues to mean the full L0–L4 framework.
+- [v0.5 audit](provenance/V05_UPDATE_AUDIT.md) and [new update hashes](provenance/V05_UPDATE_SHA256.json): separate from the preserved v0.4 manifests and verifier.
+
+Municipal stabilizers remain independent of the ancient network; Weaving remains general relational Transduction. The supplied stage documents preserve ACCEPTED, WORKING and OPEN distinctions. Currency conversions, chromatic clock factors, surveyed coordinates and safe network-transition mathematics remain OPEN. AERA references and the historical live-model prefix are unchanged.

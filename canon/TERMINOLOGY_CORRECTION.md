@@ -1,0 +1,2 @@
+# Author-confirmed terminology correction — 2026-10-24
+`BAEN`, `baen` and dictated `B-A-E-N` were transcription errors for **`vaen` (V-A-E-N)**. There is NO separate BAEN resource in MK173. This supersedes any earlier OPEN ambiguity in active canon. Keep historical imported quotations and manifests intact; append dated correction to LIVE_MODEL.md and update active DECISIONS.md/AERA_INHERITANCE.md to remove the ambiguity. `Vaelith` (V-A-E-L-I-T-H) is the separate Orange race; do not confuse it with `vaen`. Preserve `velis`, `ru’ne`, `maege`, `maegi`, `abecca`.

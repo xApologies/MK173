@@ -1,0 +1,378 @@
+{
+  "schema": 1,
+  "scope": "MK173 v0.5 snapshot and delta against the preserved v0.4 base; self hash excluded and covered by Git",
+  "base_commit": "9f557a3f4cebd45769dbc58cd079bf6e29656eac",
+  "archive": {
+    "name": "MK173_continuity_delta_v0_5.zip",
+    "bytes": 3025817,
+    "sha256": "6f1a3e7a8575a7b18348d6ddf7ddd0d182a358bd4922a6c1a5457da63a11a845"
+  },
+  "archive_files": {
+    "CODEX_UPDATE_PROMPT.md": {
+      "bytes": 3058,
+      "sha256": "ec75f7dff507d43ae970b427299d34c1a9020b21398bf89fc05461abf8f37743"
+    },
+    "canon/08_ECONOMY_AND_DAILY_LIFE.md": {
+      "bytes": 2886,
+      "sha256": "f527af398925c520524016a835082e8cbd58c726418cb4aa85cd69d7348a0af0"
+    },
+    "canon/09_ENVIRONMENTAL_GEOGRAPHY.md": {
+      "bytes": 3247,
+      "sha256": "1d75a62be50da1ce3aa8b47e0a6d86b2aed9712b2717ee51a179404b4060fb63"
+    },
+    "canon/10_NARRATIVE_CONSTITUTION.md": {
+      "bytes": 2219,
+      "sha256": "fd4d130ba15a7e7d99c698ab155247c9f9b31713591b3895d735c3542899d15e"
+    },
+    "canon/TERMINOLOGY_CORRECTION.md": {
+      "bytes": 570,
+      "sha256": "e6c928019cce7e82f59fe28e56e2f680251096cb10d61d547fe9e141319f3bca"
+    },
+    "images/maps/political_v02_README.md": {
+      "bytes": 509,
+      "sha256": "c77bd87399bb82eee5b0043479e0388c380de0cd1a7a96b3d1b5fe0dfdfcdc85"
+    },
+    "images/maps/political_v02_corrected.png": {
+      "bytes": 3013707,
+      "sha256": "386327ddbb8d26aae4a4d9560932242e168010c10d635955b8cd6c2812da2229"
+    },
+    "provenance/DELTA_SHA256.json": {
+      "bytes": 1583,
+      "sha256": "ed696bd317691bac16e0db6a8928b4754f01a198103c2748cca4a924d090fc1e"
+    },
+    "provenance/DELTA_V05_NOTES.md": {
+      "bytes": 1209,
+      "sha256": "2358672cbc3684bda97275ac8f1ab79ba382acdc28ae37fdd3af196a892ddc53"
+    },
+    "world_clock/EVENTS_V2.csv": {
+      "bytes": 508,
+      "sha256": "38ede51b8ff89407deee8c6597272a5fd60c05dc59c535a6ce1f7482ec828ee8"
+    },
+    "world_clock/REALM_CLOCKS_V2.csv": {
+      "bytes": 353,
+      "sha256": "aeb91ba8654a2bc93d70b55d4456f1beb0e5d0c0126872cb4a0fb914fd24b925"
+    },
+    "world_clock/SCHEMA_V2.md": {
+      "bytes": 934,
+      "sha256": "fc7f0f79fd5b78819ff433a20ad23dc56a8677657ba844a248affae3df6caf68"
+    }
+  },
+  "imported_paths": [
+    "canon/08_ECONOMY_AND_DAILY_LIFE.md",
+    "canon/09_ENVIRONMENTAL_GEOGRAPHY.md",
+    "canon/10_NARRATIVE_CONSTITUTION.md",
+    "canon/TERMINOLOGY_CORRECTION.md",
+    "images/maps/political_v02_README.md",
+    "images/maps/political_v02_corrected.png",
+    "provenance/DELTA_V05_NOTES.md",
+    "world_clock/EVENTS_V2.csv",
+    "world_clock/REALM_CLOCKS_V2.csv",
+    "world_clock/SCHEMA_V2.md"
+  ],
+  "base_files": {
+    ".gitattributes": {
+      "bytes": 87,
+      "sha256": "1c91de4fad295da81a0cfa87c6bee0e702e8ca1e1a91c20f0cd980779b2439bc"
+    },
+    ".gitignore": {
+      "bytes": 28,
+      "sha256": "07ec48fbe2a2da8b12906201f9fcb15b8e4028e36ce527bd0c0b8068b8d7868b"
+    },
+    "CODEX_PROMPT.md": {
+      "bytes": 2306,
+      "sha256": "f13b273969e0e6134b4f2cb202922f4099eee65f04c334d0112eaaf2f46de089"
+    },
+    "LIVE_MODEL.md": {
+      "bytes": 17219,
+      "sha256": "0e3b14ad910ede1711b7e0b973ae2f8f814f357cb7cd168c0d8e95d925634570"
+    },
+    "README.md": {
+      "bytes": 2389,
+      "sha256": "61f8851506089ad9738d2828d705d28d66ebdbab91d10a00e5abd12bce560b9d"
+    },
+    "canon/AERA_INHERITANCE.md": {
+      "bytes": 925,
+      "sha256": "6670270b41b5c75be99456089db5ce01d5be8ae7d966e9157270b4c22ff23b36"
+    },
+    "canon/DECISIONS.md": {
+      "bytes": 2341,
+      "sha256": "1d1a61b08729c5023c241ceccbc9c83af11c875c4628e7a152a211cb7b2cc24f"
+    },
+    "canon/WORLD_AND_STORY.md": {
+      "bytes": 1764,
+      "sha256": "b3b139771155591713330989fd9dca75727f3f8ed95ab738f6c3a159a2b04ad9"
+    },
+    "images/INDEX.md": {
+      "bytes": 2018,
+      "sha256": "75ce6e9a92cd80622f4962cd0cd87e3156ba0f07fa2504a54013960e2b434cb8"
+    },
+    "images/maps/geography_v01.png": {
+      "bytes": 3338362,
+      "sha256": "58e258f5cb88aa5b11ba8f8f36075717c7547bb9b559e942626cb5e29521b0d8"
+    },
+    "images/maps/political_v01.png": {
+      "bytes": 3303824,
+      "sha256": "5c1e6084a64595175432ab4b8b34dbb9fe0991e920abea244954c891b99ad48e"
+    },
+    "images/references/nonordinary_geometry.jpeg": {
+      "bytes": 290942,
+      "sha256": "b8c18c90390f945114d86cec3f57b9ca382f5c0cc45258bd9292c2bcb43dabf3"
+    },
+    "narrative/BLUE/ARCS.md": {
+      "bytes": 310,
+      "sha256": "64697f0f25f9e4ccef3ec33f1319418e3a4077b3588f4dd9c8f17f6ad93eca4b"
+    },
+    "narrative/GREEN/ARCS.md": {
+      "bytes": 317,
+      "sha256": "0e441e66a084a7058d163794eef17f6970bd9a196e0a48219c79150b1960be85"
+    },
+    "narrative/ORANGE/ARCS.md": {
+      "bytes": 293,
+      "sha256": "356dbf30983fa706f2557fe714d9ba9239746df48d22033c1b2d07e4fbfefc19"
+    },
+    "narrative/RED/ARCS.md": {
+      "bytes": 306,
+      "sha256": "5c63fda62f35c7ea7305968c5549111c347f9837bb2ca2dac5f0765fe24f6d47"
+    },
+    "narrative/VIOLET/ARCS.md": {
+      "bytes": 313,
+      "sha256": "54ca5502b46fd4209b56967c7ed4d21a4beab94700038b216f539f82ce03c602"
+    },
+    "narrative/WHITE/ARCS.md": {
+      "bytes": 311,
+      "sha256": "69c71094d702c7c4906d705a2740c0aef297ef69ceea096961201367983522e3"
+    },
+    "narrative/YELLOW/ARCS.md": {
+      "bytes": 314,
+      "sha256": "165bfb7821ef7c1e2db50fbd0d726f18335e8f159d92916d54e932bb2924300f"
+    },
+    "provenance/CHANGELOG.md": {
+      "bytes": 1030,
+      "sha256": "77debb64333d828330c00f75a30d2a6bfb7f05f2bbcd21040e28ff569b3ba5e9"
+    },
+    "provenance/IMPORT_AUDIT.md": {
+      "bytes": 15764,
+      "sha256": "94fbd05b25bacde734afba0d0df9780f569ff41c8e41ae692f69d42ec9e36e3e"
+    },
+    "provenance/IMPORT_SHA256.json": {
+      "bytes": 6451,
+      "sha256": "b05fd6b29b7d62a2c9fa98572ab292a2798cc265ed4d456ca8d03d9b76f281a0"
+    },
+    "provenance/SHA256.json": {
+      "bytes": 2031,
+      "sha256": "cff07b6d45c521ea0099b7ff56be588702f216a04629336043c8395523bc2617"
+    },
+    "provenance/verify_import.py": {
+      "bytes": 9154,
+      "sha256": "039ecfe687ebb76043dbed286bf205e591c5236bd2f6e19dde0c9efd9c6aa74b"
+    },
+    "world_clock/EVENTS.csv": {
+      "bytes": 270,
+      "sha256": "5f2c68c76d2f1cd725a58ed79680517f06a870bd33e6093568771c4a5aaf8a6e"
+    },
+    "world_clock/README.md": {
+      "bytes": 1388,
+      "sha256": "046fdc116fe88c5a88785b27447093b2ab37c3bc2487b9c4a4eb96d1414d29a4"
+    },
+    "world_clock/REALM_CLOCKS.csv": {
+      "bytes": 125,
+      "sha256": "75f937a88c7415d1c2cef39362b353ddc26f4102f5009e1d74f1f7a84a13d08e"
+    }
+  },
+  "modified_paths": [
+    "LIVE_MODEL.md",
+    "README.md",
+    "canon/AERA_INHERITANCE.md",
+    "canon/DECISIONS.md",
+    "images/INDEX.md",
+    "provenance/CHANGELOG.md"
+  ],
+  "append_only_paths": [
+    "LIVE_MODEL.md",
+    "README.md",
+    "images/INDEX.md",
+    "provenance/CHANGELOG.md"
+  ],
+  "added_paths": [
+    "canon/08_ECONOMY_AND_DAILY_LIFE.md",
+    "canon/09_ENVIRONMENTAL_GEOGRAPHY.md",
+    "canon/10_NARRATIVE_CONSTITUTION.md",
+    "canon/TERMINOLOGY_CORRECTION.md",
+    "images/maps/political_v02_README.md",
+    "images/maps/political_v02_corrected.png",
+    "provenance/DELTA_V05_NOTES.md",
+    "provenance/V05_UPDATE_AUDIT.md",
+    "provenance/V05_UPDATE_SHA256.json",
+    "provenance/verify_v05_update.py",
+    "world_clock/EVENTS_V2.csv",
+    "world_clock/REALM_CLOCKS_V2.csv",
+    "world_clock/SCHEMA_V2.md"
+  ],
+  "image_difference": {
+    "bbox": [
+      11,
+      120,
+      186,
+      162
+    ],
+    "changed_pixels": 7345
+  },
+  "files": {
+    ".gitattributes": {
+      "bytes": 87,
+      "sha256": "1c91de4fad295da81a0cfa87c6bee0e702e8ca1e1a91c20f0cd980779b2439bc"
+    },
+    ".gitignore": {
+      "bytes": 28,
+      "sha256": "07ec48fbe2a2da8b12906201f9fcb15b8e4028e36ce527bd0c0b8068b8d7868b"
+    },
+    "canon/08_ECONOMY_AND_DAILY_LIFE.md": {
+      "bytes": 2886,
+      "sha256": "f527af398925c520524016a835082e8cbd58c726418cb4aa85cd69d7348a0af0"
+    },
+    "canon/09_ENVIRONMENTAL_GEOGRAPHY.md": {
+      "bytes": 3247,
+      "sha256": "1d75a62be50da1ce3aa8b47e0a6d86b2aed9712b2717ee51a179404b4060fb63"
+    },
+    "canon/10_NARRATIVE_CONSTITUTION.md": {
+      "bytes": 2219,
+      "sha256": "fd4d130ba15a7e7d99c698ab155247c9f9b31713591b3895d735c3542899d15e"
+    },
+    "canon/AERA_INHERITANCE.md": {
+      "bytes": 952,
+      "sha256": "5efc70e383ee9b022f1271d8b3d3214a3a273e3b5981a6ae17e525be05739a0f"
+    },
+    "canon/DECISIONS.md": {
+      "bytes": 2901,
+      "sha256": "07d27169e156dcd1cb64aaaf7cb9ea00fb7e785eb7d918cbd946e93bc6e1310a"
+    },
+    "canon/TERMINOLOGY_CORRECTION.md": {
+      "bytes": 570,
+      "sha256": "e6c928019cce7e82f59fe28e56e2f680251096cb10d61d547fe9e141319f3bca"
+    },
+    "canon/WORLD_AND_STORY.md": {
+      "bytes": 1764,
+      "sha256": "b3b139771155591713330989fd9dca75727f3f8ed95ab738f6c3a159a2b04ad9"
+    },
+    "CODEX_PROMPT.md": {
+      "bytes": 2306,
+      "sha256": "f13b273969e0e6134b4f2cb202922f4099eee65f04c334d0112eaaf2f46de089"
+    },
+    "images/INDEX.md": {
+      "bytes": 3226,
+      "sha256": "7cc45a7d80cc7534116384c77ccdee5b9a4e122cc665346a6d4465a2ff50de97"
+    },
+    "images/maps/geography_v01.png": {
+      "bytes": 3338362,
+      "sha256": "58e258f5cb88aa5b11ba8f8f36075717c7547bb9b559e942626cb5e29521b0d8"
+    },
+    "images/maps/political_v01.png": {
+      "bytes": 3303824,
+      "sha256": "5c1e6084a64595175432ab4b8b34dbb9fe0991e920abea244954c891b99ad48e"
+    },
+    "images/maps/political_v02_corrected.png": {
+      "bytes": 3013707,
+      "sha256": "386327ddbb8d26aae4a4d9560932242e168010c10d635955b8cd6c2812da2229"
+    },
+    "images/maps/political_v02_README.md": {
+      "bytes": 509,
+      "sha256": "c77bd87399bb82eee5b0043479e0388c380de0cd1a7a96b3d1b5fe0dfdfcdc85"
+    },
+    "images/references/nonordinary_geometry.jpeg": {
+      "bytes": 290942,
+      "sha256": "b8c18c90390f945114d86cec3f57b9ca382f5c0cc45258bd9292c2bcb43dabf3"
+    },
+    "LIVE_MODEL.md": {
+      "bytes": 19630,
+      "sha256": "0413a8e4ea16df35548d73fd90a46db0b550b2eb96230b10de3ee63234bc1956"
+    },
+    "narrative/BLUE/ARCS.md": {
+      "bytes": 310,
+      "sha256": "64697f0f25f9e4ccef3ec33f1319418e3a4077b3588f4dd9c8f17f6ad93eca4b"
+    },
+    "narrative/GREEN/ARCS.md": {
+      "bytes": 317,
+      "sha256": "0e441e66a084a7058d163794eef17f6970bd9a196e0a48219c79150b1960be85"
+    },
+    "narrative/ORANGE/ARCS.md": {
+      "bytes": 293,
+      "sha256": "356dbf30983fa706f2557fe714d9ba9239746df48d22033c1b2d07e4fbfefc19"
+    },
+    "narrative/RED/ARCS.md": {
+      "bytes": 306,
+      "sha256": "5c63fda62f35c7ea7305968c5549111c347f9837bb2ca2dac5f0765fe24f6d47"
+    },
+    "narrative/VIOLET/ARCS.md": {
+      "bytes": 313,
+      "sha256": "54ca5502b46fd4209b56967c7ed4d21a4beab94700038b216f539f82ce03c602"
+    },
+    "narrative/WHITE/ARCS.md": {
+      "bytes": 311,
+      "sha256": "69c71094d702c7c4906d705a2740c0aef297ef69ceea096961201367983522e3"
+    },
+    "narrative/YELLOW/ARCS.md": {
+      "bytes": 314,
+      "sha256": "165bfb7821ef7c1e2db50fbd0d726f18335e8f159d92916d54e932bb2924300f"
+    },
+    "provenance/CHANGELOG.md": {
+      "bytes": 1871,
+      "sha256": "7aeefb08d781ad6610e9c86ca6884b198d5fd3341fba28b67b2e1d5674319125"
+    },
+    "provenance/DELTA_V05_NOTES.md": {
+      "bytes": 1209,
+      "sha256": "2358672cbc3684bda97275ac8f1ab79ba382acdc28ae37fdd3af196a892ddc53"
+    },
+    "provenance/IMPORT_AUDIT.md": {
+      "bytes": 15764,
+      "sha256": "94fbd05b25bacde734afba0d0df9780f569ff41c8e41ae692f69d42ec9e36e3e"
+    },
+    "provenance/IMPORT_SHA256.json": {
+      "bytes": 6451,
+      "sha256": "b05fd6b29b7d62a2c9fa98572ab292a2798cc265ed4d456ca8d03d9b76f281a0"
+    },
+    "provenance/SHA256.json": {
+      "bytes": 2031,
+      "sha256": "cff07b6d45c521ea0099b7ff56be588702f216a04629336043c8395523bc2617"
+    },
+    "provenance/V05_UPDATE_AUDIT.md": {
+      "bytes": 14904,
+      "sha256": "833a39d07eb7c3d9ebf7f21f38cbbb82200c458781ec77485b2a93c4f428ed3d"
+    },
+    "provenance/verify_import.py": {
+      "bytes": 9154,
+      "sha256": "039ecfe687ebb76043dbed286bf205e591c5236bd2f6e19dde0c9efd9c6aa74b"
+    },
+    "provenance/verify_v05_update.py": {
+      "bytes": 13225,
+      "sha256": "5b988d4d7e854258143a57ece31772e1d7d91da63cbdeeb69f3446724feb1d23"
+    },
+    "README.md": {
+      "bytes": 4161,
+      "sha256": "4a718053a9b46371942ad93440f078e6ac475d3813330584d0ef513c0eeb86c0"
+    },
+    "world_clock/EVENTS.csv": {
+      "bytes": 270,
+      "sha256": "5f2c68c76d2f1cd725a58ed79680517f06a870bd33e6093568771c4a5aaf8a6e"
+    },
+    "world_clock/EVENTS_V2.csv": {
+      "bytes": 508,
+      "sha256": "38ede51b8ff89407deee8c6597272a5fd60c05dc59c535a6ce1f7482ec828ee8"
+    },
+    "world_clock/README.md": {
+      "bytes": 1388,
+      "sha256": "046fdc116fe88c5a88785b27447093b2ab37c3bc2487b9c4a4eb96d1414d29a4"
+    },
+    "world_clock/REALM_CLOCKS.csv": {
+      "bytes": 125,
+      "sha256": "75f937a88c7415d1c2cef39362b353ddc26f4102f5009e1d74f1f7a84a13d08e"
+    },
+    "world_clock/REALM_CLOCKS_V2.csv": {
+      "bytes": 353,
+      "sha256": "aeb91ba8654a2bc93d70b55d4456f1beb0e5d0c0126872cb4a0fb914fd24b925"
+    },
+    "world_clock/SCHEMA_V2.md": {
+      "bytes": 934,
+      "sha256": "fc7f0f79fd5b78819ff433a20ad23dc56a8677657ba844a248affae3df6caf68"
+    }
+  }
+}

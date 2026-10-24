@@ -14,3 +14,14 @@ Run `python provenance/verify_import.py` with Python 3.10+ and Pillow to verify 
 The handoff preserves Development 01–07 individually and 08–10 as a combined summary; the original stage boundaries for 08–10 are missing. The maps are concepts: their scale bars, political boundaries and generated labels are not validated measurements or new canon. Realm clock factors and currency conversions remain OPEN.
 
 Framework source: [AERA](https://github.com/xApologies/AERA). Related references: [_bricked](https://github.com/xApologies/_bricked), [Mk-147](https://github.com/xApologies/Mk-147), [MK727](https://github.com/xApologies/MK727). [MK163](https://github.com/xApologies/MK163) remains a separate novel. No external repository corpus is imported here. No new license or image authorship claim is assigned by this import.
+
+## Current v0.5 continuity update — 2026-10-24
+
+The v0.4 description above is retained as history. **Stages 08–10 now have individual records, and BAEN is corrected to vaen in active canon.** The earlier stage-coverage and terminology gaps are superseded by these supplied records:
+
+- [08 — Economy and Daily Life](canon/08_ECONOMY_AND_DAILY_LIFE.md), [09 — Environmental Geography](canon/09_ENVIRONMENTAL_GEOGRAPHY.md), [10 — Narrative Constitution](canon/10_NARRATIVE_CONSTITUTION.md), and [terminology correction](canon/TERMINOLOGY_CORRECTION.md).
+- [Political map v02](images/maps/political_v02_corrected.png) and [limited correction scope](images/maps/political_v02_README.md). The three original images are preserved; the visual collection now has four images.
+- [Chronology v2 schema](world_clock/SCHEMA_V2.md), [events v2](world_clock/EVENTS_V2.csv), and [realm clocks v2](world_clock/REALM_CLOCKS_V2.csv). Original CSVs remain unchanged.
+- [Update audit and remaining issues](provenance/V05_UPDATE_AUDIT.md), [v0.5 hashes](provenance/V05_UPDATE_SHA256.json), [supplied delta notes](provenance/DELTA_V05_NOTES.md), and [v0.5 verifier](provenance/verify_v05_update.py).
+
+For the current snapshot, run `python provenance/verify_v05_update.py` with Python 3.10+ and Pillow. Use `--git-index` for staged bytes or `--commit HEAD` for committed bytes. The old verifier and manifests are unchanged historical v0.4 evidence: the old verifier requires the original v0.4 checkout and is expected to reject the expanded v0.5 working tree. Do not regenerate the old manifests to make it pass. The new verifier checks the preserved base and this update separately. Unknown clock factors, dates, exchange rates, surveyed map data and network mathematics remain OPEN.

@@ -1,0 +1,4 @@
+event_id,book,arc,event,relative_order,predecessor_id,white_date,realm,realm_local_time,location,source,status,notes
+E0001,RED,01,Aren receives conflicting mountain surveys,opening,,,White,,Asterhold,workshop Development 04,WORKING,Date open
+E0002,RED,01,Aren investigates mountain,after E0001,E0001,,White,,,workshop Development 04,WORKING,Location and date open
+E0003,WHITE,05,Network reconfiguration,after chromatic investigations,,,White,,,workshop Development 02,WORKING,Dependency not fully formalized

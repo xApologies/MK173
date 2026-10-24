@@ -14,3 +14,11 @@ All three decoded successfully and were visually inspected. Their original bytes
 The political map's printed 80,000-mile **diameter** conflicts with the written approximately 80,000-mile **circumference**. Its Earth comparison, scale bar, capital marker and note treating major features as canon are unratified image annotations. Written decisions govern. The geography map's scale and legend also remain illustrative. Neither map places chromatic realms on the White planet or determines travel times.
 
 The retained live model's older geography filename is a historical alias for the geography concept linked here. The nonordinary reference is a visual direction, not a proven realm geometry or White-world map.
+
+## v0.5 derived political map — 2026-10-24
+
+[Political concept v02](maps/political_v02_corrected.png) is the user-supplied, narrowly annotated derivative of the retained [v01](maps/political_v01.png). It is a 1774 × 887 PNG with SHA256 `386327ddbb8d26aae4a4d9560932242e168010c10d635955b8cd6c2812da2229`. Its top-left annotation now reads approximately 80,000-mile **circumference** and approximately 3.2 Earth circumferences; see the [supplied derivative note](maps/political_v02_README.md).
+
+Full decoding and pixel comparison found 7,345 changed pixels, confined to the rectangle x=11–185, y=120–161 (zero-based coordinates). Every decoded RGB pixel outside that annotation is identical to v01. This verifies the narrow visual scope, not the derivative's editing software or original authorship. All three original image files remain byte-identical.
+
+The correction does not validate the scale bar, political borders, government names, capitals, coordinates, projection or legend's canon claims. Both versions remain concept art subordinate to written decisions. Original image provenance gaps remain recorded in the [v0.5 audit](../provenance/V05_UPDATE_AUDIT.md); no new licensing claim is made.
