@@ -1,0 +1,2 @@
+# Keep source and provenance hashes stable across Windows and other checkouts.
+* -text

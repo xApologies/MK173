@@ -1,0 +1,4 @@
+event_id,book,arc,event,relative_order,white_date,status
+E0001,RED,01,Aren receives conflicting mountain surveys,opening,,WORKING
+E0002,RED,01,Aren investigates mountain,after E0001,,WORKING
+E0003,WHITE,05,Network reconfiguration,after chromatic investigations,,WORKING
