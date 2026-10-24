@@ -44,3 +44,9 @@ The previous v0.6 commit is complete and verified on remote main. The five [acce
 The archive's README, update prompt and original-named hash manifest were not copied over existing repository files. Their exact bytes remain in the ignored ZIP/staging and their hashes are recorded in the [new snapshot manifest](provenance/RED_PASS1_SNAPSHOT_SHA256.json). See [changed paths, checks and remaining issues](provenance/RED_PASS1_IMPORT_AUDIT.md).
 
 For this snapshot, run `python provenance/verify_red_pass1.py` with Python 3.10+; use `--git-index` or `--commit HEAD` to verify Git bytes. Older fixed-inventory verifiers remain unchanged and apply to their original checkouts, not this expanded tree. Existing arc registries, images, chronology CSVs and source records are preserved. No AERA or MK163 content is modified.
+
+## Orange Book Pass 1 — 2026-10-24
+
+The [Orange index](narrative/ORANGE/README.md) links five ACCEPTED causal summaries and the [Orange live model](narrative/ORANGE/LIVE_MODEL.md). This checkpoint follows the verified Red import and connects Red's preliminary atlas to bounded living-system research, civic oversight and the prospective Yellow transformation question. Detailed chapter plans remain OPEN.
+
+See [the scoped decision note](canon/DECISIONS.md), [World Clock pointers](world_clock/README.md), [import audit](provenance/ORANGE_PASS1_IMPORT_AUDIT.md) and [snapshot manifest](provenance/ORANGE_PASS1_SNAPSHOT_SHA256.json). Run `python provenance/verify_orange_pass1.py` with Python 3.10+ for this snapshot; add `--git-index` or `--commit HEAD` to compare Git bytes. Earlier fixed-inventory verifiers remain applicable to their original checkouts. All Red files, existing chronology CSVs, images and AERA references are preserved; AERA and MK163 are not modified.

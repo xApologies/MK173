@@ -29,3 +29,11 @@ This date records repository integration, not an in-world event. The [Red Book i
 Existing E0001/E0002 remain compatible opening-arc anchors; the later White E0003 is not moved into Red. All original and v2 event/realm CSVs remain byte-identical. No new event IDs, dates, durations, clock factors or schema migration are introduced. A fuller ledger and E0003's formal dependency remain OPEN.
 
 The [decision note](../canon/DECISIONS.md) and [continuity audit](../provenance/RED_PASS1_IMPORT_AUDIT.md) distinguish this accepted narrative skeleton from detailed chapter planning, optional proposals and unresolved mechanics. Environmental storms/Domai/Eldris and municipal stabilization are not consequences or components of the ancient network merely because these stories share a setting.
+
+## Orange Book Pass 1 narrative pointers — 2026-10-24
+
+This is an integration date, not an in-world date. The [Orange index](../narrative/ORANGE/README.md) and [book live model](../narrative/ORANGE/LIVE_MODEL.md) add the accepted sequence Arc 01 → 02 → 03 → 04 → 05 after [Red's ending](../narrative/RED/ARC_05_SUMMARY.md), then the prospective [Yellow handoff](../narrative/YELLOW/ARCS.md). The earlier Red note remains a record of its own import; Orange now has its separate accepted skeleton.
+
+Arc 01 supplies an approximate interval of several weeks after Red. No exact date, trial span, travel duration, realm-clock factor, new event ID or schema migration follows from that phrase. All four existing event/realm CSVs and all L2 civilization records remain byte-identical. E0001/E0002 remain opening Red anchors, and E0003 remains the later White working event. A fuller chronology ledger and its dependencies remain OPEN.
+
+The route is Asterhold/White → Sunfall/White → Orange → Sunfall/White, with a prospective Dawnshore/White introduction for Yellow. Saelith's travel respects Orange/White access; she stays in Orange at book end. Seren's possible correspondence does not establish a dated event. The [decision note](../canon/DECISIONS.md) and [continuity audit](../provenance/ORANGE_PASS1_IMPORT_AUDIT.md) retain these scope limits and the full AERA L0–L4 meaning of World Clock.
