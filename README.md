@@ -56,3 +56,9 @@ See [the scoped decision note](canon/DECISIONS.md), [World Clock pointers](world
 The [Yellow index](narrative/YELLOW/README.md) links five accepted causal summaries and the [book model](narrative/YELLOW/LIVE_MODEL.md). Yellow develops transformation histories and context-dependent preservation criteria through Lysara's civic commission and Orun's independent collaboration, leading toward Green's choice among admissible configurations. Chapters, scenes and prose remain OPEN.
 
 See [scoped acceptance](canon/DECISIONS.md), [World Clock pointers](world_clock/README.md), [the audit](provenance/YELLOW_PASS1_IMPORT_AUDIT.md) and [snapshot manifest](provenance/YELLOW_PASS1_SNAPSHOT_SHA256.json). Run `python provenance/verify_yellow_pass1.py` with Python 3.10+ for this snapshot; add `--git-index` or `--commit HEAD` for Git-byte comparison. Historical fixed-inventory verifiers apply to their original checkouts. All Red/Orange files and existing World Clock records are preserved; AERA and MK163 are not modified.
+
+## Green Book Pass 1 — 2026-10-24
+
+The [Green index](narrative/GREEN/README.md) links five accepted causal summaries and the [book model](narrative/GREEN/LIVE_MODEL.md). Green extends the atlas to configurations, transitions and consequences while leaving civic choices to legitimate authorities. Its onward question is Blue's long-duration persistence; detailed chapters and prose remain OPEN.
+
+See [scoped acceptance](canon/DECISIONS.md), [World Clock pointers](world_clock/README.md), [the audit](provenance/GREEN_PASS1_IMPORT_AUDIT.md) and [snapshot manifest](provenance/GREEN_PASS1_SNAPSHOT_SHA256.json). Run `python provenance/verify_green_pass1.py` with Python 3.10+; add `--git-index` or `--commit HEAD` to compare Git bytes. Historical fixed-inventory scripts apply to their original checkouts. All Red/Orange/Yellow files, prior canon text, World Clock records, images and AERA references remain preserved. AERA and MK163 are not modified.

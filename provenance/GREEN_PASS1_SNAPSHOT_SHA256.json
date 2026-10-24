@@ -1,0 +1,878 @@
+{
+  "base_commit": "4351150d9e3323294fa277f7cb707645a750d55f",
+  "archive": {
+    "name": "MK173_GREEN_BOOK_PASS1_LIVE_MODEL_v0_1.zip",
+    "bytes": 10639,
+    "sha256": "229ca69106e4a1cbba30c5f9b5f000e2ff4f3f5e1467e16e74ac0acbb904b13c",
+    "uncompressed_bytes": 17908
+  },
+  "archive_files": {
+    "CODEX_UPDATE_PROMPT.md": {
+      "bytes": 2012,
+      "sha256": "fd7e54f964b3c7bddc8a8acf14bbc18ba2446e655ca050b7ec3a2f9cf98ec38b"
+    },
+    "README.md": {
+      "bytes": 671,
+      "sha256": "efae49e154556ca88d6e2830ff8c1e447d5d63a346600ab77215cc615d63bc0d"
+    },
+    "narrative/GREEN/ARC_01_SUMMARY.md": {
+      "bytes": 2253,
+      "sha256": "057e759a3d8c239bce53275caa97d16638a6eeb8964d9bcc68ee8ec2303cdcfc"
+    },
+    "narrative/GREEN/ARC_02_SUMMARY.md": {
+      "bytes": 1957,
+      "sha256": "27991b194b536a6688e0cab50f9b65597514fa3938bac57d08bd54183bfd0c07"
+    },
+    "narrative/GREEN/ARC_03_SUMMARY.md": {
+      "bytes": 1854,
+      "sha256": "450105b8a70df4f2779ecf369f6c61b26f297417b3b1fe5be3801a28e0c5b4e3"
+    },
+    "narrative/GREEN/ARC_04_SUMMARY.md": {
+      "bytes": 2009,
+      "sha256": "bb679ddc8bfa423f826d82f85804b355f1c09870b9ba9ea20ad00510a9407e7e"
+    },
+    "narrative/GREEN/ARC_05_SUMMARY.md": {
+      "bytes": 2100,
+      "sha256": "d196cbdf77616931f65098faa36256e3459cd80773fb9ae2c8f91fea1785e827"
+    },
+    "narrative/GREEN/LIVE_MODEL.md": {
+      "bytes": 4210,
+      "sha256": "def2ceb9b192140ba3ee39daffddad86bb592056ab4e38df59ffe8866b22db87"
+    },
+    "provenance/SHA256.json": {
+      "bytes": 842,
+      "sha256": "ff24b21b26f4a0aa0b672b5bc8c86910d2772edd7b94f565a6c21ba652db3a48"
+    }
+  },
+  "source_manifest": {
+    "project": "MK173",
+    "book": "GREEN",
+    "version": "0.1",
+    "algorithm": "SHA-256",
+    "files": {
+      "README.md": "efae49e154556ca88d6e2830ff8c1e447d5d63a346600ab77215cc615d63bc0d",
+      "narrative/GREEN/ARC_01_SUMMARY.md": "057e759a3d8c239bce53275caa97d16638a6eeb8964d9bcc68ee8ec2303cdcfc",
+      "narrative/GREEN/ARC_02_SUMMARY.md": "27991b194b536a6688e0cab50f9b65597514fa3938bac57d08bd54183bfd0c07",
+      "narrative/GREEN/ARC_03_SUMMARY.md": "450105b8a70df4f2779ecf369f6c61b26f297417b3b1fe5be3801a28e0c5b4e3",
+      "narrative/GREEN/ARC_04_SUMMARY.md": "bb679ddc8bfa423f826d82f85804b355f1c09870b9ba9ea20ad00510a9407e7e",
+      "narrative/GREEN/ARC_05_SUMMARY.md": "d196cbdf77616931f65098faa36256e3459cd80773fb9ae2c8f91fea1785e827",
+      "narrative/GREEN/LIVE_MODEL.md": "def2ceb9b192140ba3ee39daffddad86bb592056ab4e38df59ffe8866b22db87"
+    }
+  },
+  "imported_paths": [
+    "narrative/GREEN/ARC_01_SUMMARY.md",
+    "narrative/GREEN/ARC_02_SUMMARY.md",
+    "narrative/GREEN/ARC_03_SUMMARY.md",
+    "narrative/GREEN/ARC_04_SUMMARY.md",
+    "narrative/GREEN/ARC_05_SUMMARY.md",
+    "narrative/GREEN/LIVE_MODEL.md"
+  ],
+  "wrapper_conflicts": [
+    {
+      "path": "CODEX_UPDATE_PROMPT.md",
+      "action": "Preserve base content; retain package version in ZIP/staging",
+      "base_sha256": "4d80f144665f83007459344151aa46a44a913fec299a09d24fa212a475f029c9",
+      "archive_sha256": "fd7e54f964b3c7bddc8a8acf14bbc18ba2446e655ca050b7ec3a2f9cf98ec38b"
+    },
+    {
+      "path": "README.md",
+      "action": "Preserve base content; retain package version in ZIP/staging",
+      "base_sha256": "ff1e07bd648ebff3e589dbd39e2db6a87651033cef8b657bb7817f89bcdeecb6",
+      "archive_sha256": "efae49e154556ca88d6e2830ff8c1e447d5d63a346600ab77215cc615d63bc0d"
+    },
+    {
+      "path": "provenance/SHA256.json",
+      "action": "Preserve base content; retain package version in ZIP/staging",
+      "base_sha256": "cff07b6d45c521ea0099b7ff56be588702f216a04629336043c8395523bc2617",
+      "archive_sha256": "ff24b21b26f4a0aa0b672b5bc8c86910d2772edd7b94f565a6c21ba652db3a48"
+    }
+  ],
+  "arcs": [
+    {
+      "path": "narrative/GREEN/ARC_01_SUMMARY.md",
+      "number": "01",
+      "title": "The Forest of Possibilities",
+      "main_beats": 5
+    },
+    {
+      "path": "narrative/GREEN/ARC_02_SUMMARY.md",
+      "number": "02",
+      "title": "The Sprite Collective",
+      "main_beats": 5
+    },
+    {
+      "path": "narrative/GREEN/ARC_03_SUMMARY.md",
+      "number": "03",
+      "title": "The Unwritten Geometry",
+      "main_beats": 5
+    },
+    {
+      "path": "narrative/GREEN/ARC_04_SUMMARY.md",
+      "number": "04",
+      "title": "The Forbidden Configuration",
+      "main_beats": 5
+    },
+    {
+      "path": "narrative/GREEN/ARC_05_SUMMARY.md",
+      "number": "05",
+      "title": "The Choice of Paths",
+      "main_beats": 5
+    }
+  ],
+  "source_markdown_hardbreaks": [],
+  "schema": "mk173-green-pass1-snapshot-v1",
+  "base_files": {
+    ".gitattributes": {
+      "bytes": 87,
+      "sha256": "1c91de4fad295da81a0cfa87c6bee0e702e8ca1e1a91c20f0cd980779b2439bc"
+    },
+    ".gitignore": {
+      "bytes": 28,
+      "sha256": "07ec48fbe2a2da8b12906201f9fcb15b8e4028e36ce527bd0c0b8068b8d7868b"
+    },
+    "CODEX_PROMPT.md": {
+      "bytes": 2306,
+      "sha256": "f13b273969e0e6134b4f2cb202922f4099eee65f04c334d0112eaaf2f46de089"
+    },
+    "CODEX_UPDATE_PROMPT.md": {
+      "bytes": 3318,
+      "sha256": "4d80f144665f83007459344151aa46a44a913fec299a09d24fa212a475f029c9"
+    },
+    "LIVE_MODEL.md": {
+      "bytes": 28435,
+      "sha256": "33b8df2c792da16bcd9e28bef979d9a5c165128abc49e3d1b4f6e1e478f7ba3d"
+    },
+    "README.md": {
+      "bytes": 9053,
+      "sha256": "ff1e07bd648ebff3e589dbd39e2db6a87651033cef8b657bb7817f89bcdeecb6"
+    },
+    "README_DELTA.md": {
+      "bytes": 672,
+      "sha256": "838be6359484984fd4b7469cfd917bd72dc5d8c18391333d922c2b783f62d28d"
+    },
+    "canon/08_ECONOMY_AND_DAILY_LIFE.md": {
+      "bytes": 4753,
+      "sha256": "b6e3677bb16cfda09311ebb1a95434cdda9be8fdf1f167de7bff4a24d01f0540"
+    },
+    "canon/09_ENVIRONMENTAL_GEOGRAPHY.md": {
+      "bytes": 3247,
+      "sha256": "1d75a62be50da1ce3aa8b47e0a6d86b2aed9712b2717ee51a179404b4060fb63"
+    },
+    "canon/10_NARRATIVE_CONSTITUTION.md": {
+      "bytes": 2219,
+      "sha256": "fd4d130ba15a7e7d99c698ab155247c9f9b31713591b3895d735c3542899d15e"
+    },
+    "canon/AERA_INHERITANCE.md": {
+      "bytes": 952,
+      "sha256": "5efc70e383ee9b022f1271d8b3d3214a3a273e3b5981a6ae17e525be05739a0f"
+    },
+    "canon/DECISIONS.md": {
+      "bytes": 12277,
+      "sha256": "d77a789f3d2a769830bbaa95b6a5db11765fecc74f34e3a4b6fa39a5b4b15848"
+    },
+    "canon/POST_V05_DECISIONS.md": {
+      "bytes": 3845,
+      "sha256": "c0ba07d491a35f5a80faa3cfdb0ee2dc34499689e0fc55cf2824c9b42bfb2fb7"
+    },
+    "canon/TERMINOLOGY_CORRECTION.md": {
+      "bytes": 570,
+      "sha256": "e6c928019cce7e82f59fe28e56e2f680251096cb10d61d547fe9e141319f3bca"
+    },
+    "canon/WORLD_AND_STORY.md": {
+      "bytes": 1764,
+      "sha256": "b3b139771155591713330989fd9dca75727f3f8ed95ab738f6c3a159a2b04ad9"
+    },
+    "images/INDEX.md": {
+      "bytes": 3226,
+      "sha256": "7cc45a7d80cc7534116384c77ccdee5b9a4e122cc665346a6d4465a2ff50de97"
+    },
+    "images/maps/geography_v01.png": {
+      "bytes": 3338362,
+      "sha256": "58e258f5cb88aa5b11ba8f8f36075717c7547bb9b559e942626cb5e29521b0d8"
+    },
+    "images/maps/political_v01.png": {
+      "bytes": 3303824,
+      "sha256": "5c1e6084a64595175432ab4b8b34dbb9fe0991e920abea244954c891b99ad48e"
+    },
+    "images/maps/political_v02_README.md": {
+      "bytes": 509,
+      "sha256": "c77bd87399bb82eee5b0043479e0388c380de0cd1a7a96b3d1b5fe0dfdfcdc85"
+    },
+    "images/maps/political_v02_corrected.png": {
+      "bytes": 3013707,
+      "sha256": "386327ddbb8d26aae4a4d9560932242e168010c10d635955b8cd6c2812da2229"
+    },
+    "images/references/nonordinary_geometry.jpeg": {
+      "bytes": 290942,
+      "sha256": "b8c18c90390f945114d86cec3f57b9ca382f5c0cc45258bd9292c2bcb43dabf3"
+    },
+    "narrative/BLUE/ARCS.md": {
+      "bytes": 310,
+      "sha256": "64697f0f25f9e4ccef3ec33f1319418e3a4077b3588f4dd9c8f17f6ad93eca4b"
+    },
+    "narrative/GREEN/ARCS.md": {
+      "bytes": 317,
+      "sha256": "0e441e66a084a7058d163794eef17f6970bd9a196e0a48219c79150b1960be85"
+    },
+    "narrative/ORANGE/ARCS.md": {
+      "bytes": 293,
+      "sha256": "356dbf30983fa706f2557fe714d9ba9239746df48d22033c1b2d07e4fbfefc19"
+    },
+    "narrative/ORANGE/ARC_01_SUMMARY.md": {
+      "bytes": 2389,
+      "sha256": "50cd8e60bcfc094d401ef4d1a50644d5280cd3c8d99cb7792cdd93ff24d1e242"
+    },
+    "narrative/ORANGE/ARC_02_SUMMARY.md": {
+      "bytes": 2283,
+      "sha256": "6da5da42c22c4fba7066d7ac573ac4ff246067d905e013e7da5fc1edf95fb3a8"
+    },
+    "narrative/ORANGE/ARC_03_SUMMARY.md": {
+      "bytes": 2171,
+      "sha256": "809829f006e23891905901638859b72642c2540b2fa6611a5dd3085a62e43242"
+    },
+    "narrative/ORANGE/ARC_04_SUMMARY.md": {
+      "bytes": 2172,
+      "sha256": "f1ed7fff1695e3ad70b89f66c61ea642d65f3a5aa96b132cbac26f13a794092c"
+    },
+    "narrative/ORANGE/ARC_05_SUMMARY.md": {
+      "bytes": 2372,
+      "sha256": "958ec3b32f2f686ee72f40bb22b50d3053e5341a9534a59747e81123da94f691"
+    },
+    "narrative/ORANGE/LIVE_MODEL.md": {
+      "bytes": 3808,
+      "sha256": "4c00e4855ebadf9b8c760ed8b023ce46116a1a03c805175932cc3f87a4d7c9de"
+    },
+    "narrative/ORANGE/README.md": {
+      "bytes": 2163,
+      "sha256": "4e6edaadf398335ff0828b84b0b57d045ce17b9e4ae4d78f75c9b51c394bfbd7"
+    },
+    "narrative/RED/ARCS.md": {
+      "bytes": 306,
+      "sha256": "5c63fda62f35c7ea7305968c5549111c347f9837bb2ca2dac5f0765fe24f6d47"
+    },
+    "narrative/RED/ARC_01_SUMMARY.md": {
+      "bytes": 1840,
+      "sha256": "3b10b8977e8d8e277cf2fdc5b9ceff0c16a8cb3b9c638a314d06dff8aca20ee7"
+    },
+    "narrative/RED/ARC_02_SUMMARY.md": {
+      "bytes": 1746,
+      "sha256": "9683dec48ce0b4e63b1a144acff84800e40b07c99c22b71f92ad26c43247bd96"
+    },
+    "narrative/RED/ARC_03_SUMMARY.md": {
+      "bytes": 1973,
+      "sha256": "e6ff55ea214206f8a9aaa0447e3b61fcde0580e33c5e4d28ad3dfaa4b6f93870"
+    },
+    "narrative/RED/ARC_04_SUMMARY.md": {
+      "bytes": 2127,
+      "sha256": "25b87fda66e78bbb5f00c1ec1a9ee6224c91b71619a270849f8201f16b65bee1"
+    },
+    "narrative/RED/ARC_05_SUMMARY.md": {
+      "bytes": 2169,
+      "sha256": "ac642d069d1308b5ec9b70eed65135f7879d17ed9bc7ce2ec48ed89ed3f3175a"
+    },
+    "narrative/RED/LIVE_MODEL.md": {
+      "bytes": 2476,
+      "sha256": "13af7dc6e78b973d62ff325817c38612dc1df49a6583de61f50faa4a2f67eb72"
+    },
+    "narrative/RED/README.md": {
+      "bytes": 2183,
+      "sha256": "27b67b07c3d272977f0c064bce6d470718aed6257347de47724994596c13c9a2"
+    },
+    "narrative/VIOLET/ARCS.md": {
+      "bytes": 313,
+      "sha256": "54ca5502b46fd4209b56967c7ed4d21a4beab94700038b216f539f82ce03c602"
+    },
+    "narrative/WHITE/ARCS.md": {
+      "bytes": 311,
+      "sha256": "69c71094d702c7c4906d705a2740c0aef297ef69ceea096961201367983522e3"
+    },
+    "narrative/YELLOW/ARCS.md": {
+      "bytes": 314,
+      "sha256": "165bfb7821ef7c1e2db50fbd0d726f18335e8f159d92916d54e932bb2924300f"
+    },
+    "narrative/YELLOW/ARC_01_SUMMARY.md": {
+      "bytes": 2930,
+      "sha256": "1e9d1ff05c5af10f910b0e158b053dc3010b6fe58a6e785ffafeff4a4993d2d9"
+    },
+    "narrative/YELLOW/ARC_02_SUMMARY.md": {
+      "bytes": 2616,
+      "sha256": "a027bd3790ebe62d1db1716c50534e092407bfa743f46272828cd5e1cb991a21"
+    },
+    "narrative/YELLOW/ARC_03_SUMMARY.md": {
+      "bytes": 2626,
+      "sha256": "728ca2500c51530eb934b0d2bff32d541ed5ffbb82bcf6bde3cb11deeea7766b"
+    },
+    "narrative/YELLOW/ARC_04_SUMMARY.md": {
+      "bytes": 2681,
+      "sha256": "524b885497e9cb0ddbf482553435e93a27126aa47e7f870ab7af1b02f81bbf08"
+    },
+    "narrative/YELLOW/ARC_05_SUMMARY.md": {
+      "bytes": 3068,
+      "sha256": "b4c872eeaec04807fca3193f6b08901fb1e4838274e4460b9290e78aacc47306"
+    },
+    "narrative/YELLOW/LIVE_MODEL.md": {
+      "bytes": 9914,
+      "sha256": "98529846dc75ee0670c4858418d046399598b4387c3c764d7012e42bedca71ee"
+    },
+    "narrative/YELLOW/README.md": {
+      "bytes": 2370,
+      "sha256": "cf28d94cb98485d44a228c00b45c3e04a12b3ab962092de5613ccb8c28a25fff"
+    },
+    "provenance/CHANGELOG.md": {
+      "bytes": 5037,
+      "sha256": "95d2e847580ed77634571ea3dce9fcdcba96a4c2930ea3c6d8418d73c7843655"
+    },
+    "provenance/DELTA_V05_NOTES.md": {
+      "bytes": 1209,
+      "sha256": "2358672cbc3684bda97275ac8f1ab79ba382acdc28ae37fdd3af196a892ddc53"
+    },
+    "provenance/IMPORT_AUDIT.md": {
+      "bytes": 15764,
+      "sha256": "94fbd05b25bacde734afba0d0df9780f569ff41c8e41ae692f69d42ec9e36e3e"
+    },
+    "provenance/IMPORT_SHA256.json": {
+      "bytes": 6451,
+      "sha256": "b05fd6b29b7d62a2c9fa98572ab292a2798cc265ed4d456ca8d03d9b76f281a0"
+    },
+    "provenance/ORANGE_PASS1_IMPORT_AUDIT.md": {
+      "bytes": 12174,
+      "sha256": "d60efd8bbdfb858e7355ab5032b370b5115e465c469d389c6d38577d1fd3c5fa"
+    },
+    "provenance/ORANGE_PASS1_SNAPSHOT_SHA256.json": {
+      "bytes": 26819,
+      "sha256": "aed3df120abfb5f64c8ef1e9c508ec27b73299130ea09e2abe20b0bf2e86b809"
+    },
+    "provenance/RED_PASS1_IMPORT_AUDIT.md": {
+      "bytes": 14040,
+      "sha256": "8e494e0cb9ec727b5b6814d7923ac52e8984ce41517af1c528f6edf3463e8426"
+    },
+    "provenance/RED_PASS1_SNAPSHOT_SHA256.json": {
+      "bytes": 23642,
+      "sha256": "b1986762bacc4425ad1d76553a3e68f85a960de17a2bb14374285f4d7ba61b98"
+    },
+    "provenance/SHA256.json": {
+      "bytes": 2031,
+      "sha256": "cff07b6d45c521ea0099b7ff56be588702f216a04629336043c8395523bc2617"
+    },
+    "provenance/V05_UPDATE_AUDIT.md": {
+      "bytes": 14904,
+      "sha256": "833a39d07eb7c3d9ebf7f21f38cbbb82200c458781ec77485b2a93c4f428ed3d"
+    },
+    "provenance/V05_UPDATE_SHA256.json": {
+      "bytes": 13185,
+      "sha256": "546ca89c64ba8f6aef4eff6e24486bf53d9e249a66fec7dc1a98fd1b198c2b9a"
+    },
+    "provenance/V06_IMPORT_AUDIT.md": {
+      "bytes": 19467,
+      "sha256": "599199bbd305f9026b06e2030e38836c7da19cf5a38baf1f51e186b234a400c0"
+    },
+    "provenance/V06_PAYLOAD_SHA256.json": {
+      "bytes": 1928,
+      "sha256": "79a0610b9b63e53b7d2084439bad658b2b18fe6a7d106babf22987adfe30b7e4"
+    },
+    "provenance/V06_SNAPSHOT_SHA256.json": {
+      "bytes": 19950,
+      "sha256": "897be2e89c5e269ce4fe5507bb64defa42ee139364a9d3d5d7c13fb2eba19178"
+    },
+    "provenance/YELLOW_PASS1_IMPORT_AUDIT.md": {
+      "bytes": 12799,
+      "sha256": "9e5d4cdd1ede75d71187fecc06217a3f2ddf0edebacab3b5dde47ffba01b0637"
+    },
+    "provenance/YELLOW_PASS1_SNAPSHOT_SHA256.json": {
+      "bytes": 31343,
+      "sha256": "a84ba4307d0c20313dca540c8c3c8bdfcedced6f78ac388d8c1d1886a0f08941"
+    },
+    "provenance/source_references/43_Bandits.pdf": {
+      "bytes": 37089,
+      "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588"
+    },
+    "provenance/source_references/44_Cartels.pdf": {
+      "bytes": 40236,
+      "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f"
+    },
+    "provenance/source_references/46_Evil_Organizations.pdf": {
+      "bytes": 83251,
+      "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece"
+    },
+    "provenance/source_references/README.md": {
+      "bytes": 1498,
+      "sha256": "2e6b2e3ebe9b5c4f52d8e4b84e3640d99dad45d19854772d7f57b56c5b04dd4c"
+    },
+    "provenance/verify_import.py": {
+      "bytes": 9154,
+      "sha256": "039ecfe687ebb76043dbed286bf205e591c5236bd2f6e19dde0c9efd9c6aa74b"
+    },
+    "provenance/verify_orange_pass1.py": {
+      "bytes": 12544,
+      "sha256": "e7b696bc7c668df849d86249a6600baa6c50ed26baec02461e24540630eb2eaf"
+    },
+    "provenance/verify_red_pass1.py": {
+      "bytes": 10566,
+      "sha256": "1a1eb37457868b7dc96d6690b2bb2691a0bbae69c0705b2214cc2ac03d48652c"
+    },
+    "provenance/verify_v05_update.py": {
+      "bytes": 13225,
+      "sha256": "5b988d4d7e854258143a57ece31772e1d7d91da63cbdeeb69f3446724feb1d23"
+    },
+    "provenance/verify_v06_update.py": {
+      "bytes": 10580,
+      "sha256": "520f34e1853ec7aab2fd34d4d94f2a4c89b3c3b868a5b4da30621c79afc06c56"
+    },
+    "provenance/verify_yellow_pass1.py": {
+      "bytes": 15325,
+      "sha256": "35f2202189ebe3fa78a0ea938cd5283b95a12c9217bdbda4ba994f5d5c95d2ef"
+    },
+    "world_clock/EVENTS.csv": {
+      "bytes": 270,
+      "sha256": "5f2c68c76d2f1cd725a58ed79680517f06a870bd33e6093568771c4a5aaf8a6e"
+    },
+    "world_clock/EVENTS_V2.csv": {
+      "bytes": 508,
+      "sha256": "38ede51b8ff89407deee8c6597272a5fd60c05dc59c535a6ce1f7482ec828ee8"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/ECONOMY/INHERITED_PRICE_REFERENCE.md": {
+      "bytes": 1502,
+      "sha256": "74c18105e3a54a5fbeceb0927b3d5ce637ab22b7e5953880c92fd0a0425819f1"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/ECONOMY/LAND_FORESTRY_CONSTRUCTION.md": {
+      "bytes": 1856,
+      "sha256": "5c7082023bef474903299b70deb5afa4a4b0daa4a0232970b08f16436d8e43ed"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/POLITICS/LEADERSHIP_WORKING.md": {
+      "bytes": 2449,
+      "sha256": "34aa6ca2db72d16cb08c2d03861c9d17ac7fc6bca4aad80d9f56d48ac8417b07"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/SECURITY/ORGANIZATIONS.md": {
+      "bytes": 1334,
+      "sha256": "91118df6ba91fd1806676f2559da869d3e4603b2c5b0a08ad2e34811a887ef56"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/TRANSPORT/SHIPS_AND_TRADE.md": {
+      "bytes": 1365,
+      "sha256": "3000c9f453be6ac94bd7e59cc3d8fbb0a46dbb2d4732be7e1b4fd1d4d9b1251d"
+    },
+    "world_clock/README.md": {
+      "bytes": 6689,
+      "sha256": "2d3ebbad34ad64291c485478e7c6400695e196577001bd475ea557e9b963e775"
+    },
+    "world_clock/REALM_CLOCKS.csv": {
+      "bytes": 125,
+      "sha256": "75f937a88c7415d1c2cef39362b353ddc26f4102f5009e1d74f1f7a84a13d08e"
+    },
+    "world_clock/REALM_CLOCKS_V2.csv": {
+      "bytes": 353,
+      "sha256": "aeb91ba8654a2bc93d70b55d4456f1beb0e5d0c0126872cb4a0fb914fd24b925"
+    },
+    "world_clock/SCHEMA_V2.md": {
+      "bytes": 934,
+      "sha256": "fc7f0f79fd5b78819ff433a20ad23dc56a8677657ba844a248affae3df6caf68"
+    }
+  },
+  "modified_paths": [
+    "LIVE_MODEL.md",
+    "README.md",
+    "canon/DECISIONS.md",
+    "provenance/CHANGELOG.md",
+    "world_clock/README.md"
+  ],
+  "append_only_paths": [
+    "LIVE_MODEL.md",
+    "README.md",
+    "canon/DECISIONS.md",
+    "provenance/CHANGELOG.md",
+    "world_clock/README.md"
+  ],
+  "added_paths": [
+    "narrative/GREEN/ARC_01_SUMMARY.md",
+    "narrative/GREEN/ARC_02_SUMMARY.md",
+    "narrative/GREEN/ARC_03_SUMMARY.md",
+    "narrative/GREEN/ARC_04_SUMMARY.md",
+    "narrative/GREEN/ARC_05_SUMMARY.md",
+    "narrative/GREEN/LIVE_MODEL.md",
+    "narrative/GREEN/README.md",
+    "provenance/GREEN_PASS1_IMPORT_AUDIT.md",
+    "provenance/GREEN_PASS1_SNAPSHOT_SHA256.json",
+    "provenance/verify_green_pass1.py"
+  ],
+  "files": {
+    ".gitattributes": {
+      "bytes": 87,
+      "sha256": "1c91de4fad295da81a0cfa87c6bee0e702e8ca1e1a91c20f0cd980779b2439bc"
+    },
+    ".gitignore": {
+      "bytes": 28,
+      "sha256": "07ec48fbe2a2da8b12906201f9fcb15b8e4028e36ce527bd0c0b8068b8d7868b"
+    },
+    "CODEX_PROMPT.md": {
+      "bytes": 2306,
+      "sha256": "f13b273969e0e6134b4f2cb202922f4099eee65f04c334d0112eaaf2f46de089"
+    },
+    "CODEX_UPDATE_PROMPT.md": {
+      "bytes": 3318,
+      "sha256": "4d80f144665f83007459344151aa46a44a913fec299a09d24fa212a475f029c9"
+    },
+    "LIVE_MODEL.md": {
+      "bytes": 30820,
+      "sha256": "03b8d6e0a109ca5f79575e1f0911234d412831d5feb32ff082009cd1a94e5c7a"
+    },
+    "README.md": {
+      "bytes": 10006,
+      "sha256": "7b3ec6b9f8a03fb099b8564c08565106142c16128eaceeddbe6d6621a8b68031"
+    },
+    "README_DELTA.md": {
+      "bytes": 672,
+      "sha256": "838be6359484984fd4b7469cfd917bd72dc5d8c18391333d922c2b783f62d28d"
+    },
+    "canon/08_ECONOMY_AND_DAILY_LIFE.md": {
+      "bytes": 4753,
+      "sha256": "b6e3677bb16cfda09311ebb1a95434cdda9be8fdf1f167de7bff4a24d01f0540"
+    },
+    "canon/09_ENVIRONMENTAL_GEOGRAPHY.md": {
+      "bytes": 3247,
+      "sha256": "1d75a62be50da1ce3aa8b47e0a6d86b2aed9712b2717ee51a179404b4060fb63"
+    },
+    "canon/10_NARRATIVE_CONSTITUTION.md": {
+      "bytes": 2219,
+      "sha256": "fd4d130ba15a7e7d99c698ab155247c9f9b31713591b3895d735c3542899d15e"
+    },
+    "canon/AERA_INHERITANCE.md": {
+      "bytes": 952,
+      "sha256": "5efc70e383ee9b022f1271d8b3d3214a3a273e3b5981a6ae17e525be05739a0f"
+    },
+    "canon/DECISIONS.md": {
+      "bytes": 15120,
+      "sha256": "ff018a2283b05c57fcbbb778a0b4df12a7e09455a362f0fe1b362690b1ee4c7c"
+    },
+    "canon/POST_V05_DECISIONS.md": {
+      "bytes": 3845,
+      "sha256": "c0ba07d491a35f5a80faa3cfdb0ee2dc34499689e0fc55cf2824c9b42bfb2fb7"
+    },
+    "canon/TERMINOLOGY_CORRECTION.md": {
+      "bytes": 570,
+      "sha256": "e6c928019cce7e82f59fe28e56e2f680251096cb10d61d547fe9e141319f3bca"
+    },
+    "canon/WORLD_AND_STORY.md": {
+      "bytes": 1764,
+      "sha256": "b3b139771155591713330989fd9dca75727f3f8ed95ab738f6c3a159a2b04ad9"
+    },
+    "images/INDEX.md": {
+      "bytes": 3226,
+      "sha256": "7cc45a7d80cc7534116384c77ccdee5b9a4e122cc665346a6d4465a2ff50de97"
+    },
+    "images/maps/geography_v01.png": {
+      "bytes": 3338362,
+      "sha256": "58e258f5cb88aa5b11ba8f8f36075717c7547bb9b559e942626cb5e29521b0d8"
+    },
+    "images/maps/political_v01.png": {
+      "bytes": 3303824,
+      "sha256": "5c1e6084a64595175432ab4b8b34dbb9fe0991e920abea244954c891b99ad48e"
+    },
+    "images/maps/political_v02_README.md": {
+      "bytes": 509,
+      "sha256": "c77bd87399bb82eee5b0043479e0388c380de0cd1a7a96b3d1b5fe0dfdfcdc85"
+    },
+    "images/maps/political_v02_corrected.png": {
+      "bytes": 3013707,
+      "sha256": "386327ddbb8d26aae4a4d9560932242e168010c10d635955b8cd6c2812da2229"
+    },
+    "images/references/nonordinary_geometry.jpeg": {
+      "bytes": 290942,
+      "sha256": "b8c18c90390f945114d86cec3f57b9ca382f5c0cc45258bd9292c2bcb43dabf3"
+    },
+    "narrative/BLUE/ARCS.md": {
+      "bytes": 310,
+      "sha256": "64697f0f25f9e4ccef3ec33f1319418e3a4077b3588f4dd9c8f17f6ad93eca4b"
+    },
+    "narrative/GREEN/ARCS.md": {
+      "bytes": 317,
+      "sha256": "0e441e66a084a7058d163794eef17f6970bd9a196e0a48219c79150b1960be85"
+    },
+    "narrative/GREEN/ARC_01_SUMMARY.md": {
+      "bytes": 2253,
+      "sha256": "057e759a3d8c239bce53275caa97d16638a6eeb8964d9bcc68ee8ec2303cdcfc"
+    },
+    "narrative/GREEN/ARC_02_SUMMARY.md": {
+      "bytes": 1957,
+      "sha256": "27991b194b536a6688e0cab50f9b65597514fa3938bac57d08bd54183bfd0c07"
+    },
+    "narrative/GREEN/ARC_03_SUMMARY.md": {
+      "bytes": 1854,
+      "sha256": "450105b8a70df4f2779ecf369f6c61b26f297417b3b1fe5be3801a28e0c5b4e3"
+    },
+    "narrative/GREEN/ARC_04_SUMMARY.md": {
+      "bytes": 2009,
+      "sha256": "bb679ddc8bfa423f826d82f85804b355f1c09870b9ba9ea20ad00510a9407e7e"
+    },
+    "narrative/GREEN/ARC_05_SUMMARY.md": {
+      "bytes": 2100,
+      "sha256": "d196cbdf77616931f65098faa36256e3459cd80773fb9ae2c8f91fea1785e827"
+    },
+    "narrative/GREEN/LIVE_MODEL.md": {
+      "bytes": 4210,
+      "sha256": "def2ceb9b192140ba3ee39daffddad86bb592056ab4e38df59ffe8866b22db87"
+    },
+    "narrative/GREEN/README.md": {
+      "bytes": 2077,
+      "sha256": "95ba7c82c16e6b121791ef606155502534ad4d2bd7306efbeea94b99f8cb019c"
+    },
+    "narrative/ORANGE/ARCS.md": {
+      "bytes": 293,
+      "sha256": "356dbf30983fa706f2557fe714d9ba9239746df48d22033c1b2d07e4fbfefc19"
+    },
+    "narrative/ORANGE/ARC_01_SUMMARY.md": {
+      "bytes": 2389,
+      "sha256": "50cd8e60bcfc094d401ef4d1a50644d5280cd3c8d99cb7792cdd93ff24d1e242"
+    },
+    "narrative/ORANGE/ARC_02_SUMMARY.md": {
+      "bytes": 2283,
+      "sha256": "6da5da42c22c4fba7066d7ac573ac4ff246067d905e013e7da5fc1edf95fb3a8"
+    },
+    "narrative/ORANGE/ARC_03_SUMMARY.md": {
+      "bytes": 2171,
+      "sha256": "809829f006e23891905901638859b72642c2540b2fa6611a5dd3085a62e43242"
+    },
+    "narrative/ORANGE/ARC_04_SUMMARY.md": {
+      "bytes": 2172,
+      "sha256": "f1ed7fff1695e3ad70b89f66c61ea642d65f3a5aa96b132cbac26f13a794092c"
+    },
+    "narrative/ORANGE/ARC_05_SUMMARY.md": {
+      "bytes": 2372,
+      "sha256": "958ec3b32f2f686ee72f40bb22b50d3053e5341a9534a59747e81123da94f691"
+    },
+    "narrative/ORANGE/LIVE_MODEL.md": {
+      "bytes": 3808,
+      "sha256": "4c00e4855ebadf9b8c760ed8b023ce46116a1a03c805175932cc3f87a4d7c9de"
+    },
+    "narrative/ORANGE/README.md": {
+      "bytes": 2163,
+      "sha256": "4e6edaadf398335ff0828b84b0b57d045ce17b9e4ae4d78f75c9b51c394bfbd7"
+    },
+    "narrative/RED/ARCS.md": {
+      "bytes": 306,
+      "sha256": "5c63fda62f35c7ea7305968c5549111c347f9837bb2ca2dac5f0765fe24f6d47"
+    },
+    "narrative/RED/ARC_01_SUMMARY.md": {
+      "bytes": 1840,
+      "sha256": "3b10b8977e8d8e277cf2fdc5b9ceff0c16a8cb3b9c638a314d06dff8aca20ee7"
+    },
+    "narrative/RED/ARC_02_SUMMARY.md": {
+      "bytes": 1746,
+      "sha256": "9683dec48ce0b4e63b1a144acff84800e40b07c99c22b71f92ad26c43247bd96"
+    },
+    "narrative/RED/ARC_03_SUMMARY.md": {
+      "bytes": 1973,
+      "sha256": "e6ff55ea214206f8a9aaa0447e3b61fcde0580e33c5e4d28ad3dfaa4b6f93870"
+    },
+    "narrative/RED/ARC_04_SUMMARY.md": {
+      "bytes": 2127,
+      "sha256": "25b87fda66e78bbb5f00c1ec1a9ee6224c91b71619a270849f8201f16b65bee1"
+    },
+    "narrative/RED/ARC_05_SUMMARY.md": {
+      "bytes": 2169,
+      "sha256": "ac642d069d1308b5ec9b70eed65135f7879d17ed9bc7ce2ec48ed89ed3f3175a"
+    },
+    "narrative/RED/LIVE_MODEL.md": {
+      "bytes": 2476,
+      "sha256": "13af7dc6e78b973d62ff325817c38612dc1df49a6583de61f50faa4a2f67eb72"
+    },
+    "narrative/RED/README.md": {
+      "bytes": 2183,
+      "sha256": "27b67b07c3d272977f0c064bce6d470718aed6257347de47724994596c13c9a2"
+    },
+    "narrative/VIOLET/ARCS.md": {
+      "bytes": 313,
+      "sha256": "54ca5502b46fd4209b56967c7ed4d21a4beab94700038b216f539f82ce03c602"
+    },
+    "narrative/WHITE/ARCS.md": {
+      "bytes": 311,
+      "sha256": "69c71094d702c7c4906d705a2740c0aef297ef69ceea096961201367983522e3"
+    },
+    "narrative/YELLOW/ARCS.md": {
+      "bytes": 314,
+      "sha256": "165bfb7821ef7c1e2db50fbd0d726f18335e8f159d92916d54e932bb2924300f"
+    },
+    "narrative/YELLOW/ARC_01_SUMMARY.md": {
+      "bytes": 2930,
+      "sha256": "1e9d1ff05c5af10f910b0e158b053dc3010b6fe58a6e785ffafeff4a4993d2d9"
+    },
+    "narrative/YELLOW/ARC_02_SUMMARY.md": {
+      "bytes": 2616,
+      "sha256": "a027bd3790ebe62d1db1716c50534e092407bfa743f46272828cd5e1cb991a21"
+    },
+    "narrative/YELLOW/ARC_03_SUMMARY.md": {
+      "bytes": 2626,
+      "sha256": "728ca2500c51530eb934b0d2bff32d541ed5ffbb82bcf6bde3cb11deeea7766b"
+    },
+    "narrative/YELLOW/ARC_04_SUMMARY.md": {
+      "bytes": 2681,
+      "sha256": "524b885497e9cb0ddbf482553435e93a27126aa47e7f870ab7af1b02f81bbf08"
+    },
+    "narrative/YELLOW/ARC_05_SUMMARY.md": {
+      "bytes": 3068,
+      "sha256": "b4c872eeaec04807fca3193f6b08901fb1e4838274e4460b9290e78aacc47306"
+    },
+    "narrative/YELLOW/LIVE_MODEL.md": {
+      "bytes": 9914,
+      "sha256": "98529846dc75ee0670c4858418d046399598b4387c3c764d7012e42bedca71ee"
+    },
+    "narrative/YELLOW/README.md": {
+      "bytes": 2370,
+      "sha256": "cf28d94cb98485d44a228c00b45c3e04a12b3ab962092de5613ccb8c28a25fff"
+    },
+    "provenance/CHANGELOG.md": {
+      "bytes": 5985,
+      "sha256": "95757bbd79514063f695b2bd8560f6fdc14ba6b671129e25f35ad06f7776bb49"
+    },
+    "provenance/DELTA_V05_NOTES.md": {
+      "bytes": 1209,
+      "sha256": "2358672cbc3684bda97275ac8f1ab79ba382acdc28ae37fdd3af196a892ddc53"
+    },
+    "provenance/GREEN_PASS1_IMPORT_AUDIT.md": {
+      "bytes": 12665,
+      "sha256": "0539bc328bb947ec046d63d14c120889167f57b87aa2ab7ff62ac3d422507115"
+    },
+    "provenance/IMPORT_AUDIT.md": {
+      "bytes": 15764,
+      "sha256": "94fbd05b25bacde734afba0d0df9780f569ff41c8e41ae692f69d42ec9e36e3e"
+    },
+    "provenance/IMPORT_SHA256.json": {
+      "bytes": 6451,
+      "sha256": "b05fd6b29b7d62a2c9fa98572ab292a2798cc265ed4d456ca8d03d9b76f281a0"
+    },
+    "provenance/ORANGE_PASS1_IMPORT_AUDIT.md": {
+      "bytes": 12174,
+      "sha256": "d60efd8bbdfb858e7355ab5032b370b5115e465c469d389c6d38577d1fd3c5fa"
+    },
+    "provenance/ORANGE_PASS1_SNAPSHOT_SHA256.json": {
+      "bytes": 26819,
+      "sha256": "aed3df120abfb5f64c8ef1e9c508ec27b73299130ea09e2abe20b0bf2e86b809"
+    },
+    "provenance/RED_PASS1_IMPORT_AUDIT.md": {
+      "bytes": 14040,
+      "sha256": "8e494e0cb9ec727b5b6814d7923ac52e8984ce41517af1c528f6edf3463e8426"
+    },
+    "provenance/RED_PASS1_SNAPSHOT_SHA256.json": {
+      "bytes": 23642,
+      "sha256": "b1986762bacc4425ad1d76553a3e68f85a960de17a2bb14374285f4d7ba61b98"
+    },
+    "provenance/SHA256.json": {
+      "bytes": 2031,
+      "sha256": "cff07b6d45c521ea0099b7ff56be588702f216a04629336043c8395523bc2617"
+    },
+    "provenance/V05_UPDATE_AUDIT.md": {
+      "bytes": 14904,
+      "sha256": "833a39d07eb7c3d9ebf7f21f38cbbb82200c458781ec77485b2a93c4f428ed3d"
+    },
+    "provenance/V05_UPDATE_SHA256.json": {
+      "bytes": 13185,
+      "sha256": "546ca89c64ba8f6aef4eff6e24486bf53d9e249a66fec7dc1a98fd1b198c2b9a"
+    },
+    "provenance/V06_IMPORT_AUDIT.md": {
+      "bytes": 19467,
+      "sha256": "599199bbd305f9026b06e2030e38836c7da19cf5a38baf1f51e186b234a400c0"
+    },
+    "provenance/V06_PAYLOAD_SHA256.json": {
+      "bytes": 1928,
+      "sha256": "79a0610b9b63e53b7d2084439bad658b2b18fe6a7d106babf22987adfe30b7e4"
+    },
+    "provenance/V06_SNAPSHOT_SHA256.json": {
+      "bytes": 19950,
+      "sha256": "897be2e89c5e269ce4fe5507bb64defa42ee139364a9d3d5d7c13fb2eba19178"
+    },
+    "provenance/YELLOW_PASS1_IMPORT_AUDIT.md": {
+      "bytes": 12799,
+      "sha256": "9e5d4cdd1ede75d71187fecc06217a3f2ddf0edebacab3b5dde47ffba01b0637"
+    },
+    "provenance/YELLOW_PASS1_SNAPSHOT_SHA256.json": {
+      "bytes": 31343,
+      "sha256": "a84ba4307d0c20313dca540c8c3c8bdfcedced6f78ac388d8c1d1886a0f08941"
+    },
+    "provenance/source_references/43_Bandits.pdf": {
+      "bytes": 37089,
+      "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588"
+    },
+    "provenance/source_references/44_Cartels.pdf": {
+      "bytes": 40236,
+      "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f"
+    },
+    "provenance/source_references/46_Evil_Organizations.pdf": {
+      "bytes": 83251,
+      "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece"
+    },
+    "provenance/source_references/README.md": {
+      "bytes": 1498,
+      "sha256": "2e6b2e3ebe9b5c4f52d8e4b84e3640d99dad45d19854772d7f57b56c5b04dd4c"
+    },
+    "provenance/verify_green_pass1.py": {
+      "bytes": 15683,
+      "sha256": "31459a151b0fbf0544a309c26e9a2bdea4f762d89bb9e46917c706214f188d00"
+    },
+    "provenance/verify_import.py": {
+      "bytes": 9154,
+      "sha256": "039ecfe687ebb76043dbed286bf205e591c5236bd2f6e19dde0c9efd9c6aa74b"
+    },
+    "provenance/verify_orange_pass1.py": {
+      "bytes": 12544,
+      "sha256": "e7b696bc7c668df849d86249a6600baa6c50ed26baec02461e24540630eb2eaf"
+    },
+    "provenance/verify_red_pass1.py": {
+      "bytes": 10566,
+      "sha256": "1a1eb37457868b7dc96d6690b2bb2691a0bbae69c0705b2214cc2ac03d48652c"
+    },
+    "provenance/verify_v05_update.py": {
+      "bytes": 13225,
+      "sha256": "5b988d4d7e854258143a57ece31772e1d7d91da63cbdeeb69f3446724feb1d23"
+    },
+    "provenance/verify_v06_update.py": {
+      "bytes": 10580,
+      "sha256": "520f34e1853ec7aab2fd34d4d94f2a4c89b3c3b868a5b4da30621c79afc06c56"
+    },
+    "provenance/verify_yellow_pass1.py": {
+      "bytes": 15325,
+      "sha256": "35f2202189ebe3fa78a0ea938cd5283b95a12c9217bdbda4ba994f5d5c95d2ef"
+    },
+    "world_clock/EVENTS.csv": {
+      "bytes": 270,
+      "sha256": "5f2c68c76d2f1cd725a58ed79680517f06a870bd33e6093568771c4a5aaf8a6e"
+    },
+    "world_clock/EVENTS_V2.csv": {
+      "bytes": 508,
+      "sha256": "38ede51b8ff89407deee8c6597272a5fd60c05dc59c535a6ce1f7482ec828ee8"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/ECONOMY/INHERITED_PRICE_REFERENCE.md": {
+      "bytes": 1502,
+      "sha256": "74c18105e3a54a5fbeceb0927b3d5ce637ab22b7e5953880c92fd0a0425819f1"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/ECONOMY/LAND_FORESTRY_CONSTRUCTION.md": {
+      "bytes": 1856,
+      "sha256": "5c7082023bef474903299b70deb5afa4a4b0daa4a0232970b08f16436d8e43ed"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/POLITICS/LEADERSHIP_WORKING.md": {
+      "bytes": 2449,
+      "sha256": "34aa6ca2db72d16cb08c2d03861c9d17ac7fc6bca4aad80d9f56d48ac8417b07"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/SECURITY/ORGANIZATIONS.md": {
+      "bytes": 1334,
+      "sha256": "91118df6ba91fd1806676f2559da869d3e4603b2c5b0a08ad2e34811a887ef56"
+    },
+    "world_clock/L2_WORLD_CIVILIZATION/TRANSPORT/SHIPS_AND_TRADE.md": {
+      "bytes": 1365,
+      "sha256": "3000c9f453be6ac94bd7e59cc3d8fbb0a46dbb2d4732be7e1b4fd1d4d9b1251d"
+    },
+    "world_clock/README.md": {
+      "bytes": 8181,
+      "sha256": "dfa7e521057c75430e6fb5eca4bff0232c8146ad0b9bb15f42c495f458160b69"
+    },
+    "world_clock/REALM_CLOCKS.csv": {
+      "bytes": 125,
+      "sha256": "75f937a88c7415d1c2cef39362b353ddc26f4102f5009e1d74f1f7a84a13d08e"
+    },
+    "world_clock/REALM_CLOCKS_V2.csv": {
+      "bytes": 353,
+      "sha256": "aeb91ba8654a2bc93d70b55d4456f1beb0e5d0c0126872cb4a0fb914fd24b925"
+    },
+    "world_clock/SCHEMA_V2.md": {
+      "bytes": 934,
+      "sha256": "fc7f0f79fd5b78819ff433a20ad23dc56a8677657ba844a248affae3df6caf68"
+    }
+  }
+}
