@@ -17,3 +17,11 @@ The [current decision note](../../canon/DECISIONS.md) records limited acceptance
 The ancient network has its own engineering instability. Genesis storms, Domai and Eldris retain their separate environmental origin, and municipal stabilizers remain independent. No global network proof, solution or apocalyptic collapse is obtained in Red. Aren is a cartographer learning practical Weaving, not an instant expert or professional cardsmith.
 
 See [the import audit](../../provenance/RED_PASS1_IMPORT_AUDIT.md), [snapshot hashes](../../provenance/RED_PASS1_SNAPSHOT_SHA256.json), [current World Clock pointers](../../world_clock/README.md), and [the overall live model](../../LIVE_MODEL.md). Existing chronology CSVs and source records are unchanged.
+
+## Writing workflow handoff — 2026-10-25
+
+All seven accepted book outlines and the [separate comprehensive audit](../../provenance/SEVEN_BOOK_PASS1_AUDIT.md) are now published. Begin later Red writing work with the [chapter-development handoff](CHAPTER_DEVELOPMENT_HANDOFF.md), unchanged [Narrative Constitution](../../canon/10_NARRATIVE_CONSTITUTION.md), WORKING [mathematics/prose addendum](../../canon/11_MATHEMATICS_AND_PROSE_STYLE_ADDENDUM.md), and the five accepted summaries above. The [future-chat breadcrumb](../../provenance/handoffs/RED_WRITING_BREADCRUMB_v0_1.txt) is retained byte-for-byte as a restart reference; its pre-verification publication caveat is historical source wording.
+
+The proposed progression is canon/World Clock reconciliation → arc expansion and causality → voice/mathematics treatment → chapter architecture → one chapter at a time with audit. This checkpoint adds the handoff only. Chapters, scenes, voice details, patent rules and any intellectual-property subplot remain OPEN/WORKING. The 60/30/10 prose balance is an illustration, not a quota. Existing source titles, 24 Red major points, chronology and AERA mechanics remain unchanged; no new equation or premature knowledge is supplied.
+
+See [scoped decisions](../../canon/DECISIONS.md), [the handoff import audit](../../provenance/RED_WRITING_V01_IMPORT_AUDIT.md) and [snapshot manifest](../../provenance/RED_WRITING_V01_SNAPSHOT_SHA256.json). Earlier future-looking text above remains preserved as the original Red import checkpoint.
